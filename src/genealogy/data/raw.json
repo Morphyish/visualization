@@ -1,0 +1,4752 @@
+{
+  "INDI": [
+    {
+      "ID": "@I1@",
+      "NAME": "Christiane /BABIN/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1960-02-06"
+      },
+      "FAMC": "@F1@"
+    },
+    {
+      "ID": "@I2@",
+      "NAME": "Joseph Lucien /BABIN/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1925-04-16",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "2013",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMC": "@F2@",
+      "FAMS": "@F1@"
+    },
+    {
+      "ID": "@I3@",
+      "NAME": "Marie Thérèse Françoise Juliette /GUERY/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1924-01-12",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "2002",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMC": "@F3@",
+      "FAMS": "@F1@"
+    },
+    {
+      "ID": "@I4@",
+      "NAME": "Joseph Pierre Marie /BABIN/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1894-07-25",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": "Y",
+      "OCCU": "Cultivateur",
+      "FAMC": "@F4@",
+      "FAMS": "@F2@"
+    },
+    {
+      "ID": "@I5@",
+      "NAME": "Marie Louise Augustine /BOUYER/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1899-01-30",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1983-11-13",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Cultivatrice",
+      "FAMC": "@F5@",
+      "FAMS": "@F2@"
+    },
+    {
+      "ID": "@I6@",
+      "NAME": "Julien Joseph Jean Marie /GUERY/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1898-11-24",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1940-02-07",
+        "PLAC": "La Remaudière, 44141, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Cultivateur",
+      "FAMC": "@F6@",
+      "FAMS": "@F3@"
+    },
+    {
+      "ID": "@I7@",
+      "NAME": "Anne Marie Hélène Françoise /BIGEARD/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1891-05-15",
+        "PLAC": "Saint-Laurent-des-Autels, 49296, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1968-03-01",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Cultivatrice",
+      "FAMC": "@F7@",
+      "FAMS": "@F3@"
+    },
+    {
+      "ID": "@I8@",
+      "NAME": "Joseph Marie /BABIN/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1866-12-25",
+        "PLAC": "La Garenne - Thouaré-sur-Loire, 44470, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": "Y",
+      "OCCU": "Cultivateur",
+      "FAMC": "@F8@",
+      "FAMS": "@F4@"
+    },
+    {
+      "ID": "@I9@",
+      "NAME": "Adélaïde Marie /MAINGUY/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1869-12-23",
+        "PLAC": "La Chevalerie - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": "Y",
+      "OCCU": "Cultivatrice",
+      "FAMC": "@F9@",
+      "FAMS": "@F4@"
+    },
+    {
+      "ID": "@I10@",
+      "NAME": "Pierre /BABIN/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1819-02-02",
+        "PLAC": "Les Perrines - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1906-02-22",
+        "PLAC": "Le Douet Rouaud - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Métayer - Cultivateur",
+      "FAMC": "@F10@",
+      "FAMS": "@F8@"
+    },
+    {
+      "ID": "@I11@",
+      "NAME": "Anne /BOUYER/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1822-11-13",
+        "PLAC": "Le Chêne Vert - La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1893-12-19",
+        "PLAC": "Le Bois Fillaud - La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Cultivatrice",
+      "FAMC": "@F11@",
+      "FAMS": "@F8@"
+    },
+    {
+      "ID": "@I12@",
+      "NAME": "Jacques /MAINGUY/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1820-08-08",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": "Y",
+      "OCCU": "Cultivateur - laboureur",
+      "FAMC": "@F12@",
+      "FAMS": "@F9@"
+    },
+    {
+      "ID": "@I13@",
+      "NAME": "Françoise /RIPOCHE/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1824-11-15",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1894-08-27",
+        "PLAC": "La Guillaumière - La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Cultivatrice",
+      "FAMC": "@F13@",
+      "FAMS": "@F9@"
+    },
+    {
+      "ID": "@I14@",
+      "NAME": "Louis Marie /BOUYER/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1860-09-16",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France",
+        "NOTE": "Demeurant La Roussière, Le fief-sauvin"
+      },
+      "DEAT": {
+        "DATE": "1913-01-17",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Laboureur - Cultivateur",
+      "FAMC": "@F14@",
+      "FAMS": "@F5@"
+    },
+    {
+      "ID": "@I15@",
+      "NAME": "Jeanne Marie Françoise /JOUBERT/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1870-04-09",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1930-01-24",
+        "PLAC": "Le Landreau, 44079, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Cultivatrice",
+      "FAMC": "@F15@",
+      "FAMS": "@F5@"
+    },
+    {
+      "ID": "@I16@",
+      "NAME": "Jean /BABIN/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1776-05-05",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1845-03-18",
+        "PLAC": "Les Perrines - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Métayer",
+      "FAMC": "@F16@",
+      "FAMS": "@F10@"
+    },
+    {
+      "ID": "@I17@",
+      "NAME": "Renée /RIPOCHE/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1783-06-29",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1870-08-23",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMC": "@F17@",
+      "FAMS": "@F10@"
+    },
+    {
+      "ID": "@I18@",
+      "NAME": "Mathurin /BOUYER/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1782-12-28",
+        "PLAC": "Le Chêne Vert - La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1854-06-14",
+        "PLAC": "Le Chêne Vert - La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Laboureur",
+      "FAMC": "@F18@",
+      "FAMS": "@F11@"
+    },
+    {
+      "ID": "@I19@",
+      "NAME": "Marie /PEIGNE/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1788-03-23",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1854-09-12",
+        "PLAC": "Le Chêne Vert - La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMC": "@F19@",
+      "FAMS": "@F11@"
+    },
+    {
+      "ID": "@I20@",
+      "NAME": "Jean /RIPOCHE/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1791-03-21",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1855-07-06",
+        "PLAC": "La Berrière - La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Métayer - laboureur",
+      "FAMC": "@F20@",
+      "FAMS": "@F13@",
+      "NOTE": "Demeurant à La Garenne La Chapelle Basse Mer"
+    },
+    {
+      "ID": "@I21@",
+      "NAME": "Jeanne /HIVERT/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1794-02-27",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1873-09-12",
+        "PLAC": "Barbechat, 44008, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Cultivatrice",
+      "FAMC": "@F21@",
+      "FAMS": "@F13@",
+      "NOTE": "Demeurant à la Guillonnière"
+    },
+    {
+      "ID": "@I22@",
+      "NAME": "Louis /BOUYER/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1823-10-30",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": "Y",
+      "OCCU": "Laboureur",
+      "FAMC": "@F22@",
+      "FAMS": "@F14@"
+    },
+    {
+      "ID": "@I23@",
+      "NAME": "Marie /LEMÉ / LEMAY/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1821-05-03",
+        "PLAC": "Le Pé Bardou - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1879-01-02",
+        "PLAC": "Le Landreau, 44079, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Cultivatrice",
+      "FAMC": "@F23@",
+      "FAMS": "@F14@"
+    },
+    {
+      "ID": "@I24@",
+      "NAME": "Louis /JOUBERT/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1828-01-21",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1911-02-03",
+        "PLAC": "La Fennetière - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Laboureur - Métayer - cultivateur",
+      "FAMC": "@F24@",
+      "FAMS": "@F15@"
+    },
+    {
+      "ID": "@I25@",
+      "NAME": "Jeanne /JOUBERT/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1833-07-20",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1912-09-08",
+        "PLAC": "La Fennetière - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Cultivatrice",
+      "FAMC": "@F25@",
+      "FAMS": "@F15@"
+    },
+    {
+      "ID": "@I26@",
+      "NAME": "Jean /BOUYER/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1780-02-19",
+        "PLAC": "La Rinière du Beauchêne - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1849-10-27",
+        "PLAC": "La Rinière du Beauchêne - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Laboureur",
+      "FAMC": "@F26@",
+      "FAMS": "@F22@"
+    },
+    {
+      "ID": "@I27@",
+      "NAME": "Perrine /CORALEAU/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1793-03-03",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": "Y",
+      "FAMC": "@F27@",
+      "FAMS": "@F22@"
+    },
+    {
+      "ID": "@I28@",
+      "NAME": "Louis /JOUBERT/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1801-05-26",
+        "PLAC": "La Fennetière - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1885-02-11",
+        "PLAC": "La Fennetière - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Laboureur",
+      "FAMC": "@F28@",
+      "FAMS": "@F24@"
+    },
+    {
+      "ID": "@I29@",
+      "NAME": "Marie /PINEAU/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1798-08-14",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1876-01-12",
+        "PLAC": "La Fennetière - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Cultivatrice",
+      "FAMC": "@F29@",
+      "FAMS": "@F24@"
+    },
+    {
+      "ID": "@I30@",
+      "NAME": "François /JOUBERT/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1807-01-04",
+        "PLAC": "La Fennetière - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1884-10-16",
+        "PLAC": "La Fennetière - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Métayer",
+      "FAMC": "@F30@",
+      "FAMS": "@F25@"
+    },
+    {
+      "ID": "@I31@",
+      "NAME": "Julienne /PINEAU/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1809-08-24",
+        "PLAC": "Metairie de la pilotière - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": "Y",
+      "OCCU": "Métayer",
+      "FAMC": "@F31@",
+      "FAMS": "@F25@"
+    },
+    {
+      "ID": "@I32@",
+      "NAME": "Joseph /LEMÉ / LEMAY/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1776-12-31",
+        "PLAC": "La Tremblaie - La Boissière-du-Doré, 44016, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1860-04-16",
+        "PLAC": "Le Pé Bardou - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Laboureur",
+      "FAMC": "@F32@",
+      "FAMS": "@F23@"
+    },
+    {
+      "ID": "@I33@",
+      "NAME": "Jeanne /POUIVET/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1783-05-05",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1854-01-03",
+        "PLAC": "Le Pé Bardou - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Cultivatrice",
+      "FAMC": "@F33@",
+      "FAMS": "@F23@"
+    },
+    {
+      "ID": "@I34@",
+      "NAME": "Mathurin /BABIN/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1724"
+      },
+      "DEAT": {
+        "DATE": "1794-02-24",
+        "PLAC": "La Blardière - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMC": "@F34@",
+      "FAMS": "@F16@"
+    },
+    {
+      "ID": "@I35@",
+      "NAME": "Marie /GUERIN/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMC": "@F35@",
+      "FAMS": "@F16@"
+    },
+    {
+      "ID": "@I36@",
+      "NAME": "René /RIPOCHE/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1747-09-15",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1818-06-15",
+        "PLAC": "Les Perrines - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Métayer - laboureur",
+      "FAMC": "@F36@",
+      "FAMS": "@F17@"
+    },
+    {
+      "ID": "@I37@",
+      "NAME": "Perrine /ROTUREAU/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1747-01-11",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1794-08-18",
+        "PLAC": "Les Perrines - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMC": "@F37@",
+      "FAMS": "@F17@"
+    },
+    {
+      "ID": "@I38@",
+      "NAME": "Jean /BOUYER/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1749-04-27",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1827-12-17",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Laboureur",
+      "FAMC": "@F38@",
+      "FAMS": "@F26@"
+    },
+    {
+      "ID": "@I39@",
+      "NAME": "Jeanne /PEIGNÉ/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1751",
+        "PLAC": "Vallet, 44212, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1823-01-18",
+        "PLAC": "La Rinière du Beauchêne - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMC": "@F39@",
+      "FAMS": "@F26@"
+    },
+    {
+      "ID": "@I40@",
+      "NAME": "Guillaume /CORALEAU/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "OCCU": "Laboureur",
+      "FAMC": "@F40@",
+      "FAMS": "@F27@"
+    },
+    {
+      "ID": "@I41@",
+      "NAME": "Perrine /BREVET/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMC": "@F41@",
+      "FAMS": "@F27@"
+    },
+    {
+      "ID": "@I42@",
+      "NAME": "Julien Jospeh /GUERY/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1864-10-16",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": "Y",
+      "OCCU": "Cultivateur",
+      "FAMC": "@F42@",
+      "FAMS": "@F6@"
+    },
+    {
+      "ID": "@I43@",
+      "NAME": "Marie Jeanne /BORDAGE/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1861-05-27",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": "Y",
+      "OCCU": "Domestique",
+      "FAMC": "@F43@",
+      "FAMS": "@F6@"
+    },
+    {
+      "ID": "@I44@",
+      "NAME": "Julien /GUERY/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1821-09-01",
+        "PLAC": "L'Imberdière - Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France",
+        "ASSO": {
+          "KEY": "@I45@",
+          "TYPE": "INDI",
+          "RELA": "Witness"
+        }
+      },
+      "DEAT": {
+        "DATE": "1892-03-02",
+        "PLAC": "La Boizinière - Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Laboureur - Cultivateur",
+      "FAMC": "@F44@",
+      "FAMS": "@F42@"
+    },
+    {
+      "ID": "@I46@",
+      "NAME": "Jeanne /ABLINE/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1832-05-24",
+        "PLAC": "Saint-Rémy-en-Mauges, 49316, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1901-11-11",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Cultivatrice",
+      "FAMC": "@F45@",
+      "FAMS": "@F42@"
+    },
+    {
+      "ID": "@I47@",
+      "NAME": "Julien /GUERY/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1794-10-26",
+        "PLAC": "Les Bruyères - Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1852-07-19",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Laboureur - Cultivateur",
+      "FAMC": "@F46@",
+      "FAMS": "@F44@"
+    },
+    {
+      "ID": "@I48@",
+      "NAME": "Marie /GERFAUD/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1798-02-01",
+        "PLAC": "La Drouvinière - Le Puiset-Doré, 49252, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1839-11-24",
+        "PLAC": "L'Imberdière - Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Cultivatrice",
+      "FAMC": "@F47@",
+      "FAMS": "@F44@"
+    },
+    {
+      "ID": "@I49@",
+      "NAME": "Jacques /ABLINE/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1804-06-06",
+        "PLAC": "La Jousseliniere - Saint-Rémy-en-Mauges, 49316, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1858-10-01",
+        "PLAC": "La Grande Moinie - Saint-Rémy-en-Mauges, 49316, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Laboureur - métayer",
+      "FAMC": "@F48@",
+      "FAMS": "@F45@"
+    },
+    {
+      "ID": "@I50@",
+      "NAME": "Marie /ROBET/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1809-04-25",
+        "PLAC": "Montrevault, 49218, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": "Y",
+      "OCCU": "Cultivatrice",
+      "FAMC": "@F49@",
+      "FAMS": "@F45@"
+    },
+    {
+      "ID": "@I45@",
+      "NAME": "Julien /GUERY/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1768-11-16",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1853-02-25",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Cultivateur",
+      "FAMC": "@F50@",
+      "FAMS": "@F46@"
+    },
+    {
+      "ID": "@I51@",
+      "NAME": "Renée /TERRIEN/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1765"
+      },
+      "DEAT": {
+        "DATE": "1821-02-24",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F51@",
+      "FAMS": "@F46@"
+    },
+    {
+      "ID": "@I52@",
+      "NAME": "Louis /BORDAGE/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1830-06-28",
+        "PLAC": "Le Petit Lattay - Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France",
+        "NOTE": "Né jumeaux avec Virginie BORDAGE"
+      },
+      "DEAT": "Y",
+      "OCCU": "Tuilier",
+      "FAMC": "@F52@",
+      "FAMS": "@F43@"
+    },
+    {
+      "ID": "@I53@",
+      "NAME": "Marie /RENOU/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1831-05-07",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1877-09-09",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Tuilière",
+      "FAMC": "@F53@",
+      "FAMS": "@F43@"
+    },
+    {
+      "ID": "@I54@",
+      "NAME": "François /BIGEARD/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1853-03-12",
+        "PLAC": "Le Bordage - Saint-Laurent-des-Autels, 49296, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": "Y",
+      "OCCU": "Cultivateur",
+      "FAMC": "@F54@",
+      "FAMS": "@F7@"
+    },
+    {
+      "ID": "@I55@",
+      "NAME": "Anne-Marie /MEILLERAYE/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1857-02-16",
+        "PLAC": "Saint-Sauveur-de-Landemont, 49320, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": "Y",
+      "OCCU": "Cultivatrice",
+      "FAMC": "@F55@",
+      "FAMS": "@F7@"
+    },
+    {
+      "ID": "@I56@",
+      "NAME": "Mathurin /BOUYER/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1757-10-22",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1834-12-14",
+        "PLAC": "Le Chêne Vert - La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Laboureur",
+      "FAMC": "@F56@",
+      "FAMS": "@F18@"
+    },
+    {
+      "ID": "@I57@",
+      "NAME": "Françoise /DURASSIER/",
+      "SEX": "F",
+      "DEAT": {
+        "DATE": "1834"
+      },
+      "FAMC": "@F57@",
+      "FAMS": "@F18@"
+    },
+    {
+      "ID": "@I58@",
+      "NAME": "Julien /PEIGNE/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1755-12-16",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1810-06-12",
+        "PLAC": "L'Artuzière - La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Laboureur",
+      "FAMC": "@F58@",
+      "FAMS": "@F19@"
+    },
+    {
+      "ID": "@I59@",
+      "NAME": "Marie /ROTUREAU/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F19@"
+    },
+    {
+      "ID": "@I60@",
+      "NAME": "Mathurin /BOUYER/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMC": "@F59@",
+      "FAMS": "@F56@"
+    },
+    {
+      "ID": "@I61@",
+      "NAME": "Marie /BONNEAU/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1739-03-14",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1807-12-22",
+        "PLAC": "La Bernetterie - La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMC": "@F60@",
+      "FAMS": "@F56@"
+    },
+    {
+      "ID": "@I62@",
+      "NAME": "Jean /DURASSIER/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F57@"
+    },
+    {
+      "ID": "@I63@",
+      "NAME": "Marie /ANNEAU/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F57@"
+    },
+    {
+      "ID": "@I64@",
+      "NAME": "François /RIPOCHE/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1750-03-15",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1813"
+      },
+      "FAMC": "@F61@",
+      "FAMS": "@F20@"
+    },
+    {
+      "ID": "@I65@",
+      "NAME": "Jeanne /BODINEAU/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1753-04-26",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": "Y",
+      "FAMC": "@F62@",
+      "FAMS": "@F20@"
+    },
+    {
+      "ID": "@I66@",
+      "NAME": "Jean /HIVERT/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1752-06-22",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1811-09-10",
+        "PLAC": "La Guillonnière - La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Laboureur",
+      "FAMC": "@F63@",
+      "FAMS": "@F21@"
+    },
+    {
+      "ID": "@I67@",
+      "NAME": "Jeanne /PEIGNE/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1759-01-19",
+        "PLAC": "L'Auberdière - La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1824-03-04",
+        "PLAC": "La Guillonnière - La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMC": "@F64@",
+      "FAMS": "@F21@"
+    },
+    {
+      "ID": "@I68@",
+      "NAME": "Jean /MAINGUY/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1786-07-21",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": "Y",
+      "OCCU": "Cultivateur - laboureur",
+      "FAMC": "@F65@",
+      "FAMS": "@F12@"
+    },
+    {
+      "ID": "@I69@",
+      "NAME": "Jeanne /JOUIS/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1789-04-23",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": "Y",
+      "OCCU": "Cultivatrice",
+      "FAMC": "@F66@",
+      "FAMS": "@F12@"
+    },
+    {
+      "ID": "@I70@",
+      "NAME": "Jean /MAINGUY/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1761-07-07",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1838-10-28",
+        "PLAC": "La Hunaudière - La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Métayer",
+      "FAMC": "@F67@",
+      "FAMS": "@F65@"
+    },
+    {
+      "ID": "@I71@",
+      "NAME": "Renée /GOULEAU/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1758-06-08",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1837-04-10",
+        "PLAC": "La Hunaudière - La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F68@",
+      "FAMS": "@F65@"
+    },
+    {
+      "ID": "@I72@",
+      "NAME": "Jacques /JOUIS/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1762-08-25",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1837-08-25",
+        "PLAC": "Le Marais - La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Métayer",
+      "FAMC": "@F69@",
+      "FAMS": "@F66@"
+    },
+    {
+      "ID": "@I73@",
+      "NAME": "Renée /SECHER/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1761-02-01",
+        "PLAC": "Champtoceaux, 49069, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1826-10-13",
+        "PLAC": "Le Marais - La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F70@",
+      "FAMS": "@F66@"
+    },
+    {
+      "ID": "@I74@",
+      "NAME": "Jean /MAINGUY/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1730-06-24",
+        "PLAC": "Champtoceaux, 49069, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1816-12-17",
+        "PLAC": "La Retaudière - La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F71@",
+      "FAMS": "@F67@"
+    },
+    {
+      "ID": "@I75@",
+      "NAME": "Marie /PESNOT/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1730-04-26",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1804-09-03",
+        "PLAC": "La Retaudière - La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F72@",
+      "FAMS": "@F67@"
+    },
+    {
+      "ID": "@I76@",
+      "NAME": "René /GOULEAU/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1717-04-11",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1781-01-11",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Laboureur",
+      "FAMC": "@F73@",
+      "FAMS": "@F68@"
+    },
+    {
+      "ID": "@I77@",
+      "NAME": "Anne /JOUIS/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMC": "@F74@",
+      "FAMS": "@F68@"
+    },
+    {
+      "ID": "@I78@",
+      "NAME": "Jean /BABIN/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1693-03-25",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1749"
+      },
+      "FAMC": "@F75@",
+      "FAMS": "@F34@"
+    },
+    {
+      "ID": "@I79@",
+      "NAME": "Renée /BABIN/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1696-07-03",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France",
+        "NOTE": "Prénom Mathée. Parents Jacques Babin et Julienne Ollivier"
+      },
+      "DEAT": {
+        "DATE": "1792-03-05",
+        "PLAC": "Le preaud - La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMS": "@F34@"
+    },
+    {
+      "ID": "@I80@",
+      "NAME": "François /GUERIN/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F35@"
+    },
+    {
+      "ID": "@I81@",
+      "NAME": "Perrine /GLEMAIN/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F35@"
+    },
+    {
+      "ID": "@I82@",
+      "NAME": "Jacques /PINEAU/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1764"
+      },
+      "DEAT": "Y",
+      "OCCU": "Métayer",
+      "FAMC": "@F76@",
+      "FAMS": [
+        "@F31@",
+        "@F29@"
+      ]
+    },
+    {
+      "ID": "@I83@",
+      "NAME": "Marie /GLEMAIN/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F31@"
+    },
+    {
+      "ID": "@I84@",
+      "NAME": "Louis /JOUBERT/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1767-05-10",
+        "PLAC": "La Maillardière - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": "Y",
+      "OCCU": "Métayer, laboureur",
+      "FAMC": "@F77@",
+      "FAMS": [
+        "@F30@",
+        "@F28@"
+      ]
+    },
+    {
+      "ID": "@I85@",
+      "NAME": "Thérèse /OGER/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F30@"
+    },
+    {
+      "ID": "@I86@",
+      "NAME": "Jean /RIPOCHE/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1698"
+      },
+      "DEAT": {
+        "DATE": "1782-08-01",
+        "PLAC": "Les Perrines - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMS": "@F36@"
+    },
+    {
+      "ID": "@I87@",
+      "NAME": "Louise /RIPOCHE/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1725"
+      },
+      "DEAT": {
+        "DATE": "1781-10-19",
+        "PLAC": "Les Perrines - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMC": "@F78@",
+      "FAMS": "@F36@"
+    },
+    {
+      "ID": "@I88@",
+      "NAME": "Pierre /ROTUREAU/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMC": "@F79@",
+      "FAMS": "@F37@"
+    },
+    {
+      "ID": "@I89@",
+      "NAME": "Jeanne /LAURENT ou LAURANS/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMC": "@F80@",
+      "FAMS": "@F37@"
+    },
+    {
+      "ID": "@I90@",
+      "NAME": "René /RIPOCHE/",
+      "SEX": "M",
+      "DEAT": {
+        "DATE": "1754"
+      },
+      "FAMS": "@F78@"
+    },
+    {
+      "ID": "@I91@",
+      "NAME": "Jeanne /PETARD/",
+      "SEX": "F",
+      "DEAT": {
+        "DATE": "1750"
+      },
+      "FAMS": "@F78@"
+    },
+    {
+      "ID": "@I92@",
+      "NAME": "Laurent /ROTUREAU/",
+      "SEX": "M",
+      "DEAT": {
+        "DATE": "1755"
+      },
+      "FAMS": "@F79@"
+    },
+    {
+      "ID": "@I93@",
+      "NAME": "Perrine /MOREAU/",
+      "SEX": "F",
+      "DEAT": {
+        "DATE": "1739"
+      },
+      "FAMS": "@F79@"
+    },
+    {
+      "ID": "@I94@",
+      "NAME": "Mathurin /LAURENT/",
+      "SEX": "M",
+      "DEAT": {
+        "DATE": "1744"
+      },
+      "FAMS": "@F80@"
+    },
+    {
+      "ID": "@I95@",
+      "NAME": "Françoise /LHOMMEAU/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F80@"
+    },
+    {
+      "ID": "@I96@",
+      "NAME": "Pierre /BOUYER/",
+      "SEX": "M",
+      "BAPM": {
+        "DATE": "1704-01-25",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1788-09-05",
+        "PLAC": "Le Chêne Vert - La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMC": "@F81@",
+      "FAMS": "@F59@"
+    },
+    {
+      "ID": "@I97@",
+      "NAME": "Claudine /DOUINEAU/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1704-07-29",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France",
+        "NOTE": "Naissance de jumeaux (René et Claudine)"
+      },
+      "DEAT": {
+        "DATE": "1766-02-09",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMC": "@F82@",
+      "FAMS": "@F59@"
+    },
+    {
+      "ID": "@I98@",
+      "NAME": "Guillaume /BONNEAU/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1701"
+      },
+      "DEAT": {
+        "DATE": "1769-09-28",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMC": "@F83@",
+      "FAMS": "@F60@"
+    },
+    {
+      "ID": "@I99@",
+      "NAME": "Jeanne /VIVANT/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMC": "@F84@",
+      "FAMS": "@F60@"
+    },
+    {
+      "ID": "@I100@",
+      "NAME": "Pierre /BOUYER/",
+      "SEX": "M",
+      "BAPM": {
+        "DATE": "1666-07-19",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1712-11-08",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMC": "@F85@",
+      "FAMS": "@F81@"
+    },
+    {
+      "ID": "@I101@",
+      "NAME": "Jeanne /RIPOCHE/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "JUL 1678",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1711-04-05",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMC": "@F86@",
+      "FAMS": "@F81@"
+    },
+    {
+      "ID": "@I102@",
+      "NAME": "Luc /DOUINEAU/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F82@"
+    },
+    {
+      "ID": "@I103@",
+      "NAME": "Jeanne /TETEDOIS/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F82@"
+    },
+    {
+      "ID": "@I104@",
+      "NAME": "Anthoine /BOUYER/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F85@"
+    },
+    {
+      "ID": "@I105@",
+      "NAME": "Nicolle /HEARD ?/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F85@"
+    },
+    {
+      "ID": "@I106@",
+      "NAME": "François /RIPOCHE/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F86@"
+    },
+    {
+      "ID": "@I107@",
+      "NAME": "Renée /PEIGNE/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F86@"
+    },
+    {
+      "ID": "@I108@",
+      "NAME": "Laurent /BONNEAU/",
+      "SEX": "M",
+      "DEAT": {
+        "DATE": "1728"
+      },
+      "FAMS": "@F83@"
+    },
+    {
+      "ID": "@I109@",
+      "NAME": "Françoise /TETEDOIS/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F83@"
+    },
+    {
+      "ID": "@I110@",
+      "NAME": "René /VIVANT/",
+      "SEX": "M",
+      "DEAT": {
+        "DATE": "1728"
+      },
+      "FAMS": "@F84@"
+    },
+    {
+      "ID": "@I111@",
+      "NAME": "Marie /POYNET ?/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F84@"
+    },
+    {
+      "ID": "@I112@",
+      "NAME": "Jacques /JOUIS/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1726-06-10",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1794-03-17",
+        "PLAC": "Le Marais - La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Métayer, laboureur",
+      "FAMC": "@F74@",
+      "FAMS": "@F69@"
+    },
+    {
+      "ID": "@I113@",
+      "NAME": "Gabrielle /BOURGET/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1728-08-02",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1778-03-05",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F87@",
+      "FAMS": "@F69@"
+    },
+    {
+      "ID": "@I114@",
+      "NAME": "Jacques /SECHER/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F70@"
+    },
+    {
+      "ID": "@I115@",
+      "NAME": "Marie /TOUBLANC/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F70@"
+    },
+    {
+      "ID": "@I116@",
+      "NAME": "Jean /JOUIS/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1685-03-14",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1753-06-01",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F88@",
+      "FAMS": "@F74@"
+    },
+    {
+      "ID": "@I117@",
+      "NAME": "Jeanne /PEIGNE/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1687-07-10",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1729-02-06",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F89@",
+      "FAMS": "@F74@"
+    },
+    {
+      "ID": "@I118@",
+      "NAME": "Pierre /BOURGET/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1693-04-10",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1767-05-19",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F90@",
+      "FAMS": "@F87@"
+    },
+    {
+      "ID": "@I119@",
+      "NAME": "Gabrielle /GASNIER/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1696-03-23",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1768-07-19",
+        "PLAC": "Le Marais - La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F91@",
+      "FAMS": "@F87@"
+    },
+    {
+      "ID": "@I120@",
+      "NAME": "Jacques /MAINGUY/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1704-02-25",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1783-07-22",
+        "PLAC": "La Retaudière - La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F92@",
+      "FAMS": "@F71@"
+    },
+    {
+      "ID": "@I121@",
+      "NAME": "Renée /LEMERCIER/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1687-11-02",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1747-04-09",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F93@",
+      "FAMS": "@F71@"
+    },
+    {
+      "ID": "@I122@",
+      "NAME": "Julien /PESNOT/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1699",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1779-10-04",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F94@",
+      "FAMS": "@F72@"
+    },
+    {
+      "ID": "@I123@",
+      "NAME": "Mathurine /DURAND/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1692",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1762-09-01",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F95@",
+      "FAMS": "@F72@"
+    },
+    {
+      "ID": "@I124@",
+      "NAME": "Lucien /MAINGUY/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1669"
+      },
+      "DEAT": {
+        "DATE": "1745-09-17",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Laboureur",
+      "FAMC": "@F96@",
+      "FAMS": "@F92@"
+    },
+    {
+      "ID": "@I125@",
+      "NAME": "Perrine /POUPLARD/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1673"
+      },
+      "DEAT": {
+        "DATE": "1740-02-27",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F97@",
+      "FAMS": "@F92@"
+    },
+    {
+      "ID": "@I126@",
+      "NAME": "Guillaume /LEMERCIER/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1653"
+      },
+      "DEAT": {
+        "DATE": "1728-03-09",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F98@",
+      "FAMS": "@F93@"
+    },
+    {
+      "ID": "@I127@",
+      "NAME": "Jeanne /CUSSONNEAU/",
+      "SEX": "F",
+      "DEAT": {
+        "DATE": "1696-01-11",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F99@",
+      "FAMS": "@F93@"
+    },
+    {
+      "ID": "@I128@",
+      "NAME": "Pierre /MAINGUY/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F96@"
+    },
+    {
+      "ID": "@I129@",
+      "NAME": "Jeanne /BOURGET/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F96@"
+    },
+    {
+      "ID": "@I130@",
+      "NAME": "Jacques /POUPLARD/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F97@"
+    },
+    {
+      "ID": "@I131@",
+      "NAME": "Cécile /LE TOUR/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F97@"
+    },
+    {
+      "ID": "@I132@",
+      "NAME": "Pierre /LEMERCIER/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F98@"
+    },
+    {
+      "ID": "@I133@",
+      "NAME": "Françoise /ETOURNEAU/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F98@"
+    },
+    {
+      "ID": "@I134@",
+      "NAME": "Pierre /CUSSONNEAU/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F99@"
+    },
+    {
+      "ID": "@I135@",
+      "NAME": "Mathurin /DURAND/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F95@"
+    },
+    {
+      "ID": "@I136@",
+      "NAME": "Julienne /SECHER/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F94@"
+    },
+    {
+      "ID": "@I137@",
+      "NAME": "François /GOULEAU/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1677"
+      },
+      "DEAT": {
+        "DATE": "1727-11-16",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F100@",
+      "FAMS": "@F73@"
+    },
+    {
+      "ID": "@I138@",
+      "NAME": "Jeanne /BOURGET/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1685-08-09",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1742-09-07",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F90@",
+      "FAMS": "@F73@"
+    },
+    {
+      "ID": "@I139@",
+      "NAME": "René /GOULEAU/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F100@"
+    },
+    {
+      "ID": "@I140@",
+      "NAME": "Renée /CHARON/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F100@"
+    },
+    {
+      "ID": "@I141@",
+      "NAME": "Lucien /BOURGET/",
+      "SEX": "M",
+      "DEAT": {
+        "DATE": "1716"
+      },
+      "FAMS": "@F90@"
+    },
+    {
+      "ID": "@I142@",
+      "NAME": "Renée /COIFFARD/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F90@"
+    },
+    {
+      "ID": "@I143@",
+      "NAME": "Julien /PEIGNE/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F89@"
+    },
+    {
+      "ID": "@I144@",
+      "NAME": "Laurence /BOUIN/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMC": "@F101@",
+      "FAMS": "@F89@"
+    },
+    {
+      "ID": "@I145@",
+      "NAME": "Jean /JOUIS/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1646-06-01",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1695-02-06",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F102@",
+      "FAMS": "@F88@"
+    },
+    {
+      "ID": "@I146@",
+      "NAME": "Perrine /GILLOIS/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1655"
+      },
+      "DEAT": {
+        "DATE": "1729-07-22",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F103@",
+      "FAMS": "@F88@"
+    },
+    {
+      "ID": "@I147@",
+      "NAME": "Mathurin /BOUIN/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F101@"
+    },
+    {
+      "ID": "@I148@",
+      "NAME": "Jeanne /MOREAU/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F101@"
+    },
+    {
+      "ID": "@I149@",
+      "NAME": "Mathurin /HIVERT/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1715"
+      },
+      "BURI": {
+        "DATE": "1765-03-03",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1765-11-02",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMC": "@F104@",
+      "FAMS": "@F63@"
+    },
+    {
+      "ID": "@I150@",
+      "NAME": "Jeanne /LE LORE/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1717-02-02",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1794-03-17",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "BURI": {
+        "DATE": "1794-03-17",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMC": "@F105@",
+      "FAMS": "@F63@"
+    },
+    {
+      "ID": "@I151@",
+      "NAME": "Laurent /RIPOCHE/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1722"
+      },
+      "DEAT": {
+        "DATE": "1786-09-06",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMC": "@F106@",
+      "FAMS": "@F61@"
+    },
+    {
+      "ID": "@I152@",
+      "NAME": "Jacquette /ROBINEAU/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F61@"
+    },
+    {
+      "ID": "@I153@",
+      "NAME": "François /BODINEAU/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "OCCU": "Laboureur",
+      "FAMS": "@F62@"
+    },
+    {
+      "ID": "@I154@",
+      "NAME": "Jeanne /HERY/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F62@"
+    },
+    {
+      "ID": "@I155@",
+      "NAME": "Mathurin /RIPOCHE/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F106@"
+    },
+    {
+      "ID": "@I156@",
+      "NAME": "Marie /RIPOCHE ?/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F106@"
+    },
+    {
+      "ID": "@I157@",
+      "NAME": "Jean /BOUYER/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F38@"
+    },
+    {
+      "ID": "@I158@",
+      "NAME": "Renée /ENAUDEAU/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F38@"
+    },
+    {
+      "ID": "@I159@",
+      "NAME": "Joseph /CORALEAU/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "OCCU": "Métayer",
+      "FAMS": "@F40@",
+      "ASSO": {
+        "KEY": "@F27@",
+        "TYPE": "FAM",
+        "RELA": "witness"
+      }
+    },
+    {
+      "ID": "@I160@",
+      "NAME": "Renée /CESBRON/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F40@"
+    },
+    {
+      "ID": "@I161@",
+      "NAME": "Pierre /BREVET/",
+      "SEX": "M",
+      "DEAT": {
+        "DATE": "1789"
+      },
+      "FAMS": "@F41@"
+    },
+    {
+      "ID": "@I162@",
+      "NAME": "Perrine /MARTIN/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F41@"
+    },
+    {
+      "ID": "@I163@",
+      "NAME": "Jeanne Thérèse /OGER/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1773-11-20",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1816-06-08",
+        "PLAC": "La Fennetière - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMC": "@F107@",
+      "FAMS": "@F28@"
+    },
+    {
+      "ID": "@I164@",
+      "NAME": "Jean /OGER/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1735"
+      },
+      "DEAT": {
+        "DATE": "1795-07-01",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMC": "@F108@",
+      "FAMS": "@F107@"
+    },
+    {
+      "ID": "@I165@",
+      "NAME": "Marie /ROTUREAU/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1744-01-09",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1807-03-11",
+        "PLAC": "La suze - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMC": "@F109@",
+      "FAMS": "@F107@"
+    },
+    {
+      "ID": "@I166@",
+      "NAME": "Marie /GLEMAIN/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMC": "@F110@",
+      "FAMS": "@F29@"
+    },
+    {
+      "ID": "@I167@",
+      "NAME": "Gilles /JOUBERT/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1731",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1804-10-23",
+        "PLAC": "Fromenteau - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMC": "@F111@",
+      "FAMS": "@F77@"
+    },
+    {
+      "ID": "@I168@",
+      "NAME": "Marie /LETOURNEUX/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1728"
+      },
+      "DEAT": {
+        "DATE": "1800-02-02",
+        "PLAC": "Fromenteau - Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France",
+        "NOTE": "Actuellement commune du Landreau"
+      },
+      "FAMC": "@F112@",
+      "FAMS": "@F77@"
+    },
+    {
+      "ID": "@I169@",
+      "NAME": "Jacques /PINEAU/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F76@"
+    },
+    {
+      "ID": "@I170@",
+      "NAME": "Julienne /LE COUET ?/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F76@"
+    },
+    {
+      "ID": "@I171@",
+      "NAME": "François /GLEMAIN/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1738"
+      },
+      "DEAT": "Y",
+      "FAMC": "@F113@",
+      "FAMS": "@F110@"
+    },
+    {
+      "ID": "@I172@",
+      "NAME": "Marie /EMERIAU/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMC": "@F114@",
+      "FAMS": "@F110@"
+    },
+    {
+      "ID": "@I173@",
+      "NAME": "Jean /GLEMAIN/",
+      "SEX": "M",
+      "DEAT": {
+        "DATE": "1768"
+      },
+      "FAMS": "@F113@"
+    },
+    {
+      "ID": "@I174@",
+      "NAME": "Michelle /SAUVESTRE/",
+      "SEX": "F",
+      "FAMS": "@F113@"
+    },
+    {
+      "ID": "@I175@",
+      "NAME": "Mathurin /EMERIAU/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F114@"
+    },
+    {
+      "ID": "@I176@",
+      "NAME": "Marie /SOUPER ?/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F114@"
+    },
+    {
+      "ID": "@I177@",
+      "NAME": "Joseph /POUIVET/",
+      "SEX": "M",
+      "DEAT": {
+        "DATE": "1854"
+      },
+      "OCCU": "Laboureur",
+      "FAMS": "@F33@"
+    },
+    {
+      "ID": "@I178@",
+      "NAME": "Jeanne /ANGREVIER/",
+      "SEX": "F",
+      "DEAT": {
+        "DATE": "1854"
+      },
+      "FAMS": "@F33@"
+    },
+    {
+      "ID": "@I179@",
+      "NAME": "René /LEMÉ / LEMAY/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "OCCU": "Laboureur",
+      "FAMS": "@F32@"
+    },
+    {
+      "ID": "@I180@",
+      "NAME": "Anne /CHATAIGNER/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F32@"
+    },
+    {
+      "ID": "@I181@",
+      "NAME": "Henry /PEIGNÉ/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMC": "@F115@",
+      "FAMS": "@F39@"
+    },
+    {
+      "ID": "@I182@",
+      "NAME": "Françoise /LORE/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMC": "@F116@",
+      "FAMS": "@F39@"
+    },
+    {
+      "ID": "@I183@",
+      "NAME": "Louis /PEIGNÉ/",
+      "SEX": "M",
+      "DEAT": {
+        "DATE": "1749"
+      },
+      "FAMS": "@F115@"
+    },
+    {
+      "ID": "@I184@",
+      "NAME": "Elisabeth /PRIOU/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F115@"
+    },
+    {
+      "ID": "@I185@",
+      "NAME": "Pierre /LORE/",
+      "SEX": "M",
+      "DEAT": {
+        "DATE": "1749"
+      },
+      "FAMS": "@F116@"
+    },
+    {
+      "ID": "@I186@",
+      "NAME": "Jeanne /CORBET/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F116@"
+    },
+    {
+      "ID": "@I187@",
+      "NAME": "Jean /PEIGNE/",
+      "SEX": "M",
+      "DEAT": {
+        "DATE": "1785"
+      },
+      "OCCU": "Fabriqueur en charge",
+      "FAMC": "@F117@",
+      "FAMS": "@F64@"
+    },
+    {
+      "ID": "@I188@",
+      "NAME": "Anne /ANTIER/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1735-01-02",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": "Y",
+      "FAMC": "@F118@",
+      "FAMS": "@F64@"
+    },
+    {
+      "ID": "@I189@",
+      "NAME": "Jean /PEIGNE/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMC": "@F119@",
+      "FAMS": "@F58@"
+    },
+    {
+      "ID": "@I190@",
+      "NAME": "Anne /BOULET/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMC": "@F120@",
+      "FAMS": "@F58@"
+    },
+    {
+      "ID": "@I191@",
+      "NAME": "Pierre /ANTIER/",
+      "SEX": "M",
+      "FAMS": "@F118@"
+    },
+    {
+      "ID": "@I192@",
+      "NAME": "Mathurin /HIVERT/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F104@"
+    },
+    {
+      "ID": "@I193@",
+      "NAME": "Julienne /DURASSIER/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F104@"
+    },
+    {
+      "ID": "@I194@",
+      "NAME": "Julien /LE LORE/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F105@"
+    },
+    {
+      "ID": "@I195@",
+      "NAME": "Marie /PERDRIAU/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F105@"
+    },
+    {
+      "ID": "@I196@",
+      "NAME": "Jean /PEIGNE/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F117@"
+    },
+    {
+      "ID": "@I197@",
+      "NAME": "Anne /DURASSIER/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F118@"
+    },
+    {
+      "ID": "@I198@",
+      "NAME": "Julien /BOULET/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F120@"
+    },
+    {
+      "ID": "@I199@",
+      "NAME": "Mathurine /GALON/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F120@"
+    },
+    {
+      "ID": "@I200@",
+      "NAME": "René /GERFAUD/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F47@"
+    },
+    {
+      "ID": "@I201@",
+      "NAME": "Perrine /SUTAU/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F47@"
+    },
+    {
+      "ID": "@I202@",
+      "NAME": "Pierre /TERRIEN/",
+      "SEX": "M",
+      "FAMS": "@F51@"
+    },
+    {
+      "ID": "@I203@",
+      "NAME": "Marie /MORAUX/",
+      "SEX": "F",
+      "FAMS": "@F51@"
+    },
+    {
+      "ID": "@I204@",
+      "NAME": "Julien /GUERY/",
+      "SEX": "M",
+      "DEAT": {
+        "DATE": "AFT 1777"
+      },
+      "FAMC": "@F121@",
+      "FAMS": "@F50@"
+    },
+    {
+      "ID": "@I205@",
+      "NAME": "Perrine /LAMBERT/",
+      "SEX": "F",
+      "DEAT": {
+        "DATE": "1777-08-14",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F122@",
+      "FAMS": "@F50@"
+    },
+    {
+      "ID": "@I206@",
+      "NAME": "Jacques /ABLINE/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1774"
+      },
+      "DEAT": "Y",
+      "OCCU": "Métayer",
+      "FAMS": "@F48@"
+    },
+    {
+      "ID": "@I207@",
+      "NAME": "Marie /AUDOUIN/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1774"
+      },
+      "DEAT": "Y",
+      "FAMC": "@F123@",
+      "FAMS": "@F48@"
+    },
+    {
+      "ID": "@I208@",
+      "NAME": "François /ROBET/",
+      "SEX": "M",
+      "DEAT": {
+        "DATE": "1829",
+        "PLAC": "Montrevault, 49218, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Laboureur",
+      "FAMS": "@F49@"
+    },
+    {
+      "ID": "@I209@",
+      "NAME": "Jeanne Perrine Victoire /MACÉ/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1775"
+      },
+      "DEAT": "Y",
+      "FAMS": "@F49@"
+    },
+    {
+      "ID": "@I210@",
+      "NAME": "René /BORDAGE/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1758"
+      },
+      "DEAT": {
+        "DATE": "1821-10-22",
+        "PLAC": "Le Petit Lattay - Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Tuilier",
+      "FAMC": "@F124@",
+      "FAMS": "@F125@"
+    },
+    {
+      "ID": "@I211@",
+      "NAME": "Marie /BOUYER/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1759"
+      },
+      "DEAT": {
+        "DATE": "1828-05-01",
+        "PLAC": "Le Petit Lattay - Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Tuilière - Laboureuse",
+      "FAMC": "@F126@",
+      "FAMS": "@F125@"
+    },
+    {
+      "ID": "@I212@",
+      "NAME": "François /BIGEARD/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1824-08-29",
+        "PLAC": "Saint-Laurent-des-Autels, 49296, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1854-08-08",
+        "PLAC": "Saint-Laurent-des-Autels, 49296, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Laboureur",
+      "FAMC": "@F127@",
+      "FAMS": "@F54@"
+    },
+    {
+      "ID": "@I213@",
+      "NAME": "Jeanne /ROTUREAU/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1818-04-27",
+        "PLAC": "Saint-Laurent-des-Autels, 49296, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1880-08-23",
+        "PLAC": "Le Bordage - Saint-Laurent-des-Autels, 49296, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Cultivatrice",
+      "FAMC": "@F128@",
+      "FAMS": "@F54@"
+    },
+    {
+      "ID": "@I214@",
+      "NAME": "Julien /ROTUREAU/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1787-10-28",
+        "PLAC": "Saint-Sauveur-de-Landemont, 49320, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1861-05-26",
+        "PLAC": "Saint-Laurent-des-Autels, 49296, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Laboureur",
+      "FAMC": "@F129@",
+      "FAMS": "@F128@"
+    },
+    {
+      "ID": "@I215@",
+      "NAME": "Anne /BODINEAU/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1790-12-24",
+        "PLAC": "Saint-Laurent-des-Autels, 49296, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1861-11-14",
+        "PLAC": "Saint-Laurent-des-Autels, 49296, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F130@",
+      "FAMS": "@F128@"
+    },
+    {
+      "ID": "@I216@",
+      "NAME": "François /BIGEARD/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1795-07-03",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1847-11-14",
+        "PLAC": "Le Bordage - Saint-Laurent-des-Autels, 49296, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Laboureur",
+      "FAMC": "@F131@",
+      "FAMS": "@F127@"
+    },
+    {
+      "ID": "@I217@",
+      "NAME": "Perrine /BODINEAU/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1799-11-17",
+        "PLAC": "Saint-Laurent-des-Autels, 49296, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1831-04-09",
+        "PLAC": "Le Bordage - Saint-Laurent-des-Autels, 49296, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F132@",
+      "FAMS": "@F127@"
+    },
+    {
+      "ID": "@I218@",
+      "NAME": "Jean /BIGEARD/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1772"
+      },
+      "DEAT": "Y",
+      "OCCU": "Laboureur",
+      "FAMS": "@F131@"
+    },
+    {
+      "ID": "@I219@",
+      "NAME": "Jeanne /JOUBERT/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1773"
+      },
+      "DEAT": "Y",
+      "FAMS": "@F131@"
+    },
+    {
+      "ID": "@I220@",
+      "NAME": "François /BODINEAU/",
+      "SEX": "M",
+      "DEAT": {
+        "DATE": "1803-01-03",
+        "PLAC": "Saint-Laurent-des-Autels, 49296, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Laboureur",
+      "FAMS": "@F132@"
+    },
+    {
+      "ID": "@I221@",
+      "NAME": "Perrine /TISON/",
+      "SEX": "F",
+      "DEAT": {
+        "DATE": "1819-05-16",
+        "PLAC": "Saint-Laurent-des-Autels, 49296, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMS": "@F132@"
+    },
+    {
+      "ID": "@I222@",
+      "NAME": "Pierre /ROTUREAU/",
+      "SEX": "M",
+      "DEAT": {
+        "DATE": "1794-03-16",
+        "PLAC": "Saint-Sauveur-de-Landemont, 49320, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMS": "@F129@"
+    },
+    {
+      "ID": "@I223@",
+      "NAME": "Julienne /SECHER/",
+      "SEX": "F",
+      "DEAT": {
+        "DATE": "1794-03-16",
+        "PLAC": "Saint-Sauveur-de-Landemont, 49320, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMS": "@F129@"
+    },
+    {
+      "ID": "@I224@",
+      "NAME": "Pierre /BODINEAU/",
+      "SEX": "M",
+      "DEAT": {
+        "DATE": "1794-03-17",
+        "PLAC": "Saint-Laurent-des-Autels, 49296, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMS": "@F130@"
+    },
+    {
+      "ID": "@I225@",
+      "NAME": "Perrine /BOSSARD/",
+      "SEX": "F",
+      "DEAT": {
+        "DATE": "1798-09-04",
+        "PLAC": "Saint-Laurent-des-Autels, 49296, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMS": "@F130@"
+    },
+    {
+      "ID": "@I226@",
+      "NAME": "Jean /MEILLERAYE/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1809-02-04",
+        "PLAC": "Landemont, 49172, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1869-11-09",
+        "PLAC": "La Bodelière - Saint-Sauveur-de-Landemont, 49320, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Laboureur",
+      "FAMC": "@F133@",
+      "FAMS": "@F55@"
+    },
+    {
+      "ID": "@I227@",
+      "NAME": "Marie /ALLARD/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1814-12-03",
+        "PLAC": "La Bodelière - Saint-Sauveur-de-Landemont, 49320, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1869-05-30",
+        "PLAC": "La Bodelière - Saint-Sauveur-de-Landemont, 49320, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Cultivatrice",
+      "FAMC": "@F134@",
+      "FAMS": "@F55@"
+    },
+    {
+      "ID": "@I228@",
+      "NAME": "Pierre /MEILLERAYE/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1769-07-16",
+        "PLAC": "Landemont, 49172, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1841-03-10",
+        "PLAC": "Saint-Sauveur-de-Landemont, 49320, Maine-et-Loire, Pays de la Loire, France",
+        "ASSO": {
+          "KEY": "@I226@",
+          "TYPE": "INDI",
+          "RELA": "Witness"
+        }
+      },
+      "OCCU": "Charpentier - cultivateur",
+      "FAMC": "@F135@",
+      "FAMS": "@F133@"
+    },
+    {
+      "ID": "@I229@",
+      "NAME": "Jeanne /ROBINEAU/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1777-09-21",
+        "PLAC": "Landemont, 49172, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1824-02-10",
+        "PLAC": "Landemont, 49172, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F136@",
+      "FAMS": "@F133@"
+    },
+    {
+      "ID": "@I230@",
+      "NAME": "Jacques /ALLARD/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1784-12-21",
+        "PLAC": "Landemont, 49172, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1873-04-05",
+        "PLAC": "Saint-Germain-d'Arcé, 72283, Sarthe, Pays de la Loire, France"
+      },
+      "OCCU": "Laboureur",
+      "FAMC": "@F137@",
+      "FAMS": "@F134@"
+    },
+    {
+      "ID": "@I231@",
+      "NAME": "Marie /CUSSONNEAU/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1785-01-06",
+        "NOTE": "Née à Landemont ou Saint Pierre Montlimart"
+      },
+      "DEAT": {
+        "DATE": "1856-10-02",
+        "PLAC": "Saint-Sauveur-de-Landemont, 49320, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F138@",
+      "FAMS": "@F134@"
+    },
+    {
+      "ID": "@I232@",
+      "NAME": "Pierre /MEILLERAYE/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1729"
+      },
+      "DEAT": {
+        "DATE": "1794-03-17",
+        "PLAC": "Landemont, 49172, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F139@",
+      "FAMS": "@F135@"
+    },
+    {
+      "ID": "@I233@",
+      "NAME": "Jeanne /MENARD/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1729-03-26",
+        "PLAC": "Drain, 49126, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1805-01-13",
+        "PLAC": "Landemont, 49172, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F140@",
+      "FAMS": "@F135@"
+    },
+    {
+      "ID": "@I234@",
+      "NAME": "Julien /ROBINEAU/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1742-02-20",
+        "PLAC": "Drain, 49126, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1793-11-01",
+        "PLAC": "Landemont, 49172, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Laboureur",
+      "FAMC": "@F141@",
+      "FAMS": "@F136@"
+    },
+    {
+      "ID": "@I235@",
+      "NAME": "Marie /CHEVALIER/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMC": "@F142@",
+      "FAMS": "@F136@"
+    },
+    {
+      "ID": "@I236@",
+      "NAME": "René /BABIN ?/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1663"
+      },
+      "DEAT": "Y",
+      "FAMS": "@F75@"
+    },
+    {
+      "ID": "@I237@",
+      "NAME": "Laurence /SAUVESTRE ?/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F75@"
+    },
+    {
+      "ID": "@I238@",
+      "NAME": "Jean /GASNIER/",
+      "SEX": "M",
+      "DEAT": {
+        "DATE": "1716"
+      },
+      "FAMC": "@F143@",
+      "FAMS": "@F91@"
+    },
+    {
+      "ID": "@I239@",
+      "NAME": "Michelle /LE BRETON/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMC": "@F144@",
+      "FAMS": "@F91@"
+    },
+    {
+      "ID": "@I240@",
+      "NAME": "Laurent /GILLOIS/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F103@"
+    },
+    {
+      "ID": "@I241@",
+      "NAME": "Jeanne /PINARD/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F103@"
+    },
+    {
+      "ID": "@I242@",
+      "NAME": "Jean /OGER/",
+      "SEX": "M",
+      "FAMS": "@F108@"
+    },
+    {
+      "ID": "@I243@",
+      "NAME": "Marie /GLEMAIN/",
+      "SEX": "F",
+      "FAMS": "@F108@"
+    },
+    {
+      "ID": "@I244@",
+      "NAME": "Jean /ROTUREAU/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1709"
+      },
+      "DEAT": {
+        "DATE": "1745-02-05",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMS": "@F109@"
+    },
+    {
+      "ID": "@I245@",
+      "NAME": "Marie /JOUBERT/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F109@"
+    },
+    {
+      "ID": "@I246@",
+      "NAME": "Guillaume /JOUBERT/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1675"
+      },
+      "DEAT": {
+        "DATE": "1740-03-22",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMS": "@F111@"
+    },
+    {
+      "ID": "@I247@",
+      "NAME": "Anne /BERTHAUD/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F111@"
+    },
+    {
+      "ID": "@I248@",
+      "NAME": "Pierre /LETOURNEUX/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1701"
+      },
+      "DEAT": {
+        "DATE": "1751-03-13",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMS": "@F112@"
+    },
+    {
+      "ID": "@I249@",
+      "NAME": "Jeanne /PINEAU/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1709"
+      },
+      "DEAT": {
+        "DATE": "1763-04-28",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMS": "@F112@"
+    },
+    {
+      "ID": "@I250@",
+      "NAME": "Louis /GUERY/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMC": "@F145@",
+      "FAMS": "@F121@"
+    },
+    {
+      "ID": "@I251@",
+      "NAME": "Jeanne /TESSIER/",
+      "SEX": "F",
+      "DEAT": {
+        "DATE": "1767"
+      },
+      "FAMC": "@F146@",
+      "FAMS": "@F121@"
+    },
+    {
+      "ID": "@I252@",
+      "NAME": "Jacques /LAMBERT/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F122@"
+    },
+    {
+      "ID": "@I253@",
+      "NAME": "Estiennette /PETITEAU/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1731-04-10",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": "Y",
+      "FAMC": "@F147@",
+      "FAMS": "@F122@"
+    },
+    {
+      "ID": "@I254@",
+      "NAME": "Louis /GUERY/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F145@"
+    },
+    {
+      "ID": "@I255@",
+      "NAME": "",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F145@"
+    },
+    {
+      "ID": "@I256@",
+      "NAME": "Claude /TESSIER/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F146@"
+    },
+    {
+      "ID": "@I257@",
+      "NAME": "Perrine /VIAU/",
+      "SEX": "F",
+      "DEAT": {
+        "DATE": "1734"
+      },
+      "FAMS": "@F146@"
+    },
+    {
+      "ID": "@I258@",
+      "NAME": "Jean /PETITEAU/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F147@"
+    },
+    {
+      "ID": "@I259@",
+      "NAME": "Perrine /-- ?/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F147@"
+    },
+    {
+      "ID": "@I260@",
+      "NAME": "Pierre /BORDAGE/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1793-05-20",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1850-01-13",
+        "PLAC": "Le Petit Lattay - Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Tuilier",
+      "FAMC": "@F125@",
+      "FAMS": "@F52@"
+    },
+    {
+      "ID": "@I261@",
+      "NAME": "Louise /SALMON/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1795-03-21",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1865-12-17",
+        "PLAC": "Le Petit Lattay - Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Laboureuse",
+      "FAMC": "@F148@",
+      "FAMS": "@F52@"
+    },
+    {
+      "ID": "@I262@",
+      "NAME": "Louis /RENOU/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1796-11-21",
+        "PLAC": "Le Petit Lattay - Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1873-07-15",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Tuilier",
+      "FAMC": "@F149@",
+      "FAMS": "@F53@"
+    },
+    {
+      "ID": "@I263@",
+      "NAME": "Marie /DUPONT/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1801-08-16",
+        "PLAC": "Les Tuileries - La Boissière-du-Doré, 44016, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "DEAT": "Y",
+      "FAMC": "@F150@",
+      "FAMS": "@F53@"
+    },
+    {
+      "ID": "@I264@",
+      "NAME": "Sébastien /SALMON/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1743"
+      },
+      "DEAT": {
+        "DATE": "1819-04-18",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F151@",
+      "FAMS": "@F148@"
+    },
+    {
+      "ID": "@I265@",
+      "NAME": "Marie /POILANE/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1755",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1810-06-24",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F152@",
+      "FAMS": "@F148@"
+    },
+    {
+      "ID": "@I266@",
+      "NAME": "René /BORDAGE/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F124@"
+    },
+    {
+      "ID": "@I267@",
+      "NAME": "Jeanne /POILANE/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1729"
+      },
+      "DEAT": {
+        "DATE": "1784-09-27",
+        "PLAC": "Le Petit Lattay - Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMS": "@F124@"
+    },
+    {
+      "ID": "@I268@",
+      "NAME": "Jacques /BOUYER/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F126@"
+    },
+    {
+      "ID": "@I269@",
+      "NAME": "Marie /BIDET/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1742"
+      },
+      "DEAT": {
+        "DATE": "1774-05-27",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMS": "@F126@"
+    },
+    {
+      "ID": "@I270@",
+      "NAME": "Sébastien /SALMON/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F151@"
+    },
+    {
+      "ID": "@I271@",
+      "NAME": "Michelle /BOUYER/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F151@"
+    },
+    {
+      "ID": "@I272@",
+      "NAME": "Vincent /POILANE/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F152@"
+    },
+    {
+      "ID": "@I273@",
+      "NAME": "Jeanne /LIBEAU/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F152@"
+    },
+    {
+      "ID": "@I274@",
+      "NAME": "Louis /RENOU/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1770-03-21"
+      },
+      "DEAT": "Y",
+      "OCCU": "Laboureur",
+      "FAMS": "@F149@"
+    },
+    {
+      "ID": "@I275@",
+      "NAME": "Renée /PAQUEREAU/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1776-05-28"
+      },
+      "DEAT": "Y",
+      "OCCU": "Laboureuse",
+      "FAMS": "@F149@"
+    },
+    {
+      "ID": "@I276@",
+      "NAME": "René /DUPONT/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1772"
+      },
+      "DEAT": {
+        "DATE": "1838-03-20",
+        "PLAC": "Les Tuileries - La Boissière-du-Doré, 44016, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "OCCU": "Tuilier",
+      "FAMC": "@F153@",
+      "FAMS": "@F150@"
+    },
+    {
+      "ID": "@I277@",
+      "NAME": "Julienne /BRANGEON/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1770"
+      },
+      "DEAT": {
+        "DATE": "1833-09-15",
+        "PLAC": "Les Tuileries - La Boissière-du-Doré, 44016, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "FAMS": "@F150@"
+    },
+    {
+      "ID": "@I278@",
+      "NAME": "René /DUPONT/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F153@"
+    },
+    {
+      "ID": "@I279@",
+      "NAME": "Jeanne /COEFFARD/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F153@"
+    },
+    {
+      "ID": "@I280@",
+      "NAME": "Jacques /ALLARD/",
+      "SEX": "M",
+      "DEAT": {
+        "DATE": "1811"
+      },
+      "FAMS": "@F137@"
+    },
+    {
+      "ID": "@I281@",
+      "NAME": "Perrine /COEFFARD/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F137@"
+    },
+    {
+      "ID": "@I282@",
+      "NAME": "Jean /CUSSONNEAU/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F138@"
+    },
+    {
+      "ID": "@I283@",
+      "NAME": "Marie /EPINAI ?/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F138@"
+    },
+    {
+      "ID": "@I284@",
+      "NAME": "Pierre /MENARD/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F140@"
+    },
+    {
+      "ID": "@I285@",
+      "NAME": "Marie-Julienne /TOUBLANT/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F140@"
+    },
+    {
+      "ID": "@I286@",
+      "NAME": "Pierre /MEILLERAYE/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F139@"
+    },
+    {
+      "ID": "@I287@",
+      "NAME": "Marie /RENOULT/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F139@"
+    },
+    {
+      "ID": "@I288@",
+      "NAME": "Jean /ROBINEAU/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1717-03-12",
+        "PLAC": "Drain, 49126, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": "Y",
+      "FAMC": "@F154@",
+      "FAMS": "@F141@"
+    },
+    {
+      "ID": "@I289@",
+      "NAME": "Marie /TOUBLANT/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1720-09-01",
+        "PLAC": "Champtoceaux, 49069, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1764-01-10",
+        "PLAC": "Drain, 49126, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMC": "@F155@",
+      "FAMS": "@F141@"
+    },
+    {
+      "ID": "@I290@",
+      "NAME": "Mathurin /CHEVALIER/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F142@"
+    },
+    {
+      "ID": "@I291@",
+      "NAME": "Laurence /POISLANE/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F142@"
+    },
+    {
+      "ID": "@I292@",
+      "NAME": "Louis /ROBINEAU/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1692-05-16",
+        "PLAC": "Drain, 49126, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "DEAT": {
+        "DATE": "1765-12-09",
+        "PLAC": "Drain, 49126, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "OCCU": "Métayer",
+      "FAMC": "@F156@",
+      "FAMS": "@F154@"
+    },
+    {
+      "ID": "@I293@",
+      "NAME": "Françoise /BOSSARD/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMC": "@F157@",
+      "FAMS": "@F154@"
+    },
+    {
+      "ID": "@I294@",
+      "NAME": "Mathurin /TOUBLANC/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "OCCU": "Serviteur domestique",
+      "FAMC": "@F158@",
+      "FAMS": "@F155@"
+    },
+    {
+      "ID": "@I295@",
+      "NAME": "Marie /TOUBLANC/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMC": "@F159@",
+      "FAMS": "@F155@"
+    },
+    {
+      "ID": "@I296@",
+      "NAME": "Jacques /ROBINEAU/",
+      "SEX": "M",
+      "BIRT": {
+        "DATE": "1655"
+      },
+      "DEAT": {
+        "DATE": "1727-03-08",
+        "PLAC": "Drain, 49126, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMS": "@F156@"
+    },
+    {
+      "ID": "@I297@",
+      "NAME": "Françoise /RENOU/",
+      "SEX": "F",
+      "BIRT": {
+        "DATE": "1656"
+      },
+      "DEAT": {
+        "DATE": "1736-12-02",
+        "PLAC": "Drain, 49126, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "FAMS": "@F156@"
+    },
+    {
+      "ID": "@I298@",
+      "NAME": "Guillaume /BOSSARD/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "FAMS": "@F157@"
+    },
+    {
+      "ID": "@I299@",
+      "NAME": "Jeanne /TERRIEN/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F157@"
+    },
+    {
+      "ID": "@I300@",
+      "NAME": "Guillaume /TOUBLANC/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "OCCU": "Laboureur",
+      "FAMS": "@F158@"
+    },
+    {
+      "ID": "@I301@",
+      "NAME": "Jeanne /CHENOUARD/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F158@"
+    },
+    {
+      "ID": "@I302@",
+      "NAME": "Pierre /TOUBLANC/",
+      "SEX": "M",
+      "DEAT": "Y",
+      "OCCU": "Laboureur",
+      "FAMS": "@F159@"
+    },
+    {
+      "ID": "@I303@",
+      "NAME": "Claude /PILET/",
+      "SEX": "F",
+      "DEAT": "Y",
+      "FAMS": "@F159@"
+    }
+  ],
+  "FAM": [
+    {
+      "ID": "@F1@",
+      "HUSB": "@I2@",
+      "WIFE": "@I3@",
+      "CHIL": "@I1@"
+    },
+    {
+      "ID": "@F2@",
+      "MARR": {
+        "DATE": "1924-05-20",
+        "PLAC": "Le Landreau, 44079, Loire-Atlantique, Pays de la Loire, France",
+        "NOTE": "Demeurant au Bois FIllaud La Chapelle Basse Mer"
+      },
+      "HUSB": "@I4@",
+      "WIFE": "@I5@",
+      "CHIL": "@I2@"
+    },
+    {
+      "ID": "@F3@",
+      "MARR": {
+        "DATE": "1923-02-04",
+        "PLAC": "Saint-Laurent-des-Autels, 49296, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I6@",
+      "WIFE": "@I7@",
+      "CHIL": "@I3@"
+    },
+    {
+      "ID": "@F4@",
+      "MARR": {
+        "DATE": "1892",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "HUSB": "@I8@",
+      "WIFE": "@I9@",
+      "CHIL": "@I4@"
+    },
+    {
+      "ID": "@F8@",
+      "MARR": {
+        "DATE": "1845-07-07",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France",
+        "NOTE": "Demeurant à la Garenne"
+      },
+      "HUSB": "@I10@",
+      "WIFE": "@I11@",
+      "CHIL": "@I8@"
+    },
+    {
+      "ID": "@F9@",
+      "MARR": {
+        "DATE": "1850-07-15",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France",
+        "NOTE": "Demeurant à la Chevalerie"
+      },
+      "HUSB": "@I12@",
+      "WIFE": "@I13@",
+      "CHIL": "@I9@",
+      "NOTE": "Demeurant à la Guillonnière La Chapelle Basse Mer"
+    },
+    {
+      "ID": "@F5@",
+      "MARR": {
+        "DATE": "1891-06-28",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France",
+        "NOTE": "Demeurant à La Haute Fennetière, Le Loroux-Bottereau"
+      },
+      "HUSB": "@I14@",
+      "WIFE": "@I15@",
+      "CHIL": "@I5@"
+    },
+    {
+      "ID": "@F10@",
+      "MARR": {
+        "DATE": "1801",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France",
+        "NOTE": "Demeurant Les Perrines, Le Loroux-Bottereau"
+      },
+      "HUSB": "@I16@",
+      "WIFE": "@I17@",
+      "CHIL": "@I10@",
+      "NOTE": "Demeurant la Blardière"
+    },
+    {
+      "ID": "@F11@",
+      "MARR": {
+        "DATE": "1811-12-29",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France",
+        "NOTE": "Demeurant au Chêne vert La Chapelle Basse Mer"
+      },
+      "HUSB": "@I18@",
+      "WIFE": "@I19@",
+      "CHIL": "@I11@"
+    },
+    {
+      "ID": "@F13@",
+      "MARR": {
+        "DATE": "1813-07-12",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France",
+        "NOTE": "Demeurant à la Berrière"
+      },
+      "HUSB": "@I20@",
+      "WIFE": "@I21@",
+      "CHIL": "@I13@"
+    },
+    {
+      "ID": "@F14@",
+      "MARR": {
+        "DATE": "1858-06-10",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France",
+        "NOTE": "Demeurant à la Rinière du Beauchêne, Le Loroux Bottereau"
+      },
+      "HUSB": "@I22@",
+      "WIFE": "@I23@",
+      "CHIL": "@I14@"
+    },
+    {
+      "ID": "@F15@",
+      "MARR": {
+        "DATE": "1856",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France",
+        "NOTE": "Demeurant à la Fenetière"
+      },
+      "HUSB": "@I24@",
+      "WIFE": "@I25@",
+      "CHIL": "@I15@"
+    },
+    {
+      "ID": "@F22@",
+      "MARR": {
+        "DATE": "1817-05-04",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France",
+        "NOTE": "Demeurant à la Rinière du Beauchêne, Le Loroux Bottereau"
+      },
+      "HUSB": "@I26@",
+      "WIFE": "@I27@",
+      "CHIL": "@I22@"
+    },
+    {
+      "ID": "@F24@",
+      "MARR": {
+        "DATE": "1827-02-20",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "HUSB": "@I28@",
+      "WIFE": "@I29@",
+      "CHIL": "@I24@"
+    },
+    {
+      "ID": "@F25@",
+      "MARR": {
+        "DATE": "1832-09-08"
+      },
+      "HUSB": "@I30@",
+      "WIFE": "@I31@",
+      "CHIL": "@I25@"
+    },
+    {
+      "ID": "@F23@",
+      "MARR": {
+        "DATE": "1810-02-24",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "HUSB": "@I32@",
+      "WIFE": "@I33@",
+      "CHIL": "@I23@"
+    },
+    {
+      "ID": "@F16@",
+      "MARR": {
+        "DATE": "1759-02-20",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "HUSB": "@I34@",
+      "WIFE": "@I35@",
+      "CHIL": "@I16@"
+    },
+    {
+      "ID": "@F17@",
+      "MARR": {
+        "DATE": "1772-11-24",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France",
+        "NOTE": "Demeurant aux Perinnes Le Loroux Bottereau"
+      },
+      "HUSB": "@I36@",
+      "WIFE": "@I37@",
+      "CHIL": "@I17@"
+    },
+    {
+      "ID": "@F26@",
+      "MARR": {
+        "DATE": "1779-02-09",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France",
+        "NOTE": "Demeurant à la Rinière du Beauchêne, Le Loroux Bottereau"
+      },
+      "HUSB": "@I38@",
+      "WIFE": "@I39@",
+      "CHIL": "@I26@"
+    },
+    {
+      "ID": "@F27@",
+      "MARR": {
+        "DATE": "1789-04-18",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France",
+        "NOTE": "Demeurant au Beauchêne La Chapelle Basse Mer",
+        "ASSO": {
+          "KEY": "@I159@",
+          "TYPE": "INDI",
+          "RELA": "Witness"
+        }
+      },
+      "HUSB": "@I40@",
+      "WIFE": "@I41@",
+      "CHIL": "@I27@"
+    },
+    {
+      "ID": "@F6@",
+      "MARR": {
+        "DATE": "1894-07-03",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France",
+        "NOTE": "Demeurant au bourg de Saint-Christophe la Couperie"
+      },
+      "HUSB": "@I42@",
+      "WIFE": "@I43@",
+      "CHIL": "@I6@"
+    },
+    {
+      "ID": "@F42@",
+      "MARR": {
+        "DATE": "1858-10-18",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France",
+        "NOTE": "Demeurant à Saint-Christophe la Couperie"
+      },
+      "HUSB": "@I44@",
+      "WIFE": "@I46@",
+      "CHIL": "@I42@"
+    },
+    {
+      "ID": "@F44@",
+      "MARR": {
+        "DATE": "1820-09-22",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I47@",
+      "WIFE": "@I48@",
+      "CHIL": "@I44@"
+    },
+    {
+      "ID": "@F45@",
+      "MARR": {
+        "DATE": "1829-09-29",
+        "PLAC": "Saint-Rémy-en-Mauges, 49316, Maine-et-Loire, Pays de la Loire, France",
+        "NOTE": "Demeurant à la La Grande Moinie Saint-Rémy en Mauges"
+      },
+      "HUSB": "@I49@",
+      "WIFE": "@I50@",
+      "CHIL": "@I46@"
+    },
+    {
+      "ID": "@F46@",
+      "MARR": "Y",
+      "HUSB": "@I45@",
+      "WIFE": "@I51@",
+      "CHIL": "@I47@"
+    },
+    {
+      "ID": "@F43@",
+      "MARR": {
+        "DATE": "1859-02-14",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I52@",
+      "WIFE": "@I53@",
+      "CHIL": "@I43@"
+    },
+    {
+      "ID": "@F7@",
+      "MARR": {
+        "DATE": "1883-05-06",
+        "PLAC": "Saint-Laurent-des-Autels, 49296, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I54@",
+      "WIFE": "@I55@",
+      "CHIL": "@I7@"
+    },
+    {
+      "ID": "@F18@",
+      "MARR": {
+        "DATE": "1782-02-05",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France",
+        "NOTE": "Demeurant au Chêne Vert La Chapelle Basse Mer"
+      },
+      "HUSB": "@I56@",
+      "WIFE": "@I57@",
+      "CHIL": "@I18@"
+    },
+    {
+      "ID": "@F19@",
+      "MARR": "Y",
+      "HUSB": "@I58@",
+      "WIFE": "@I59@",
+      "CHIL": "@I19@"
+    },
+    {
+      "ID": "@F56@",
+      "MARR": {
+        "DATE": "1756-01-27",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "HUSB": "@I60@",
+      "WIFE": "@I61@",
+      "CHIL": "@I56@"
+    },
+    {
+      "ID": "@F57@",
+      "MARR": "Y",
+      "HUSB": "@I62@",
+      "WIFE": "@I63@",
+      "CHIL": "@I57@"
+    },
+    {
+      "ID": "@F20@",
+      "MARR": {
+        "DATE": "1780-01-25",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "HUSB": "@I64@",
+      "WIFE": "@I65@",
+      "CHIL": "@I20@"
+    },
+    {
+      "ID": "@F21@",
+      "MARR": {
+        "DATE": "1785-01-25",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "HUSB": "@I66@",
+      "WIFE": "@I67@",
+      "CHIL": "@I21@"
+    },
+    {
+      "ID": "@F12@",
+      "MARR": {
+        "DATE": "1812-08-24",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France",
+        "NOTE": "Demeurant à la Varenne"
+      },
+      "HUSB": "@I68@",
+      "WIFE": "@I69@",
+      "CHIL": "@I12@"
+    },
+    {
+      "ID": "@F65@",
+      "MARR": {
+        "DATE": "1785-07-05",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I70@",
+      "WIFE": "@I71@",
+      "CHIL": "@I68@"
+    },
+    {
+      "ID": "@F66@",
+      "MARR": {
+        "DATE": "1784-11-16",
+        "PLAC": "Champtoceaux, 49069, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I72@",
+      "WIFE": "@I73@",
+      "CHIL": "@I69@"
+    },
+    {
+      "ID": "@F67@",
+      "MARR": {
+        "DATE": "1749-02-11",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I74@",
+      "WIFE": "@I75@",
+      "CHIL": "@I70@"
+    },
+    {
+      "ID": "@F68@",
+      "MARR": {
+        "DATE": "1742-08-21",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I76@",
+      "WIFE": "@I77@",
+      "CHIL": "@I71@"
+    },
+    {
+      "ID": "@F34@",
+      "MARR": {
+        "DATE": "1725"
+      },
+      "HUSB": "@I78@",
+      "WIFE": "@I79@",
+      "CHIL": "@I34@"
+    },
+    {
+      "ID": "@F35@",
+      "MARR": "Y",
+      "HUSB": "@I80@",
+      "WIFE": "@I81@",
+      "CHIL": "@I35@"
+    },
+    {
+      "ID": "@F31@",
+      "MARR": "Y",
+      "HUSB": "@I82@",
+      "WIFE": "@I83@",
+      "CHIL": "@I31@"
+    },
+    {
+      "ID": "@F30@",
+      "MARR": "Y",
+      "HUSB": "@I84@",
+      "WIFE": "@I85@",
+      "CHIL": "@I30@"
+    },
+    {
+      "ID": "@F36@",
+      "MARR": {
+        "DATE": "1746-11-08",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "HUSB": "@I86@",
+      "WIFE": "@I87@",
+      "CHIL": "@I36@"
+    },
+    {
+      "ID": "@F37@",
+      "MARR": {
+        "DATE": "1744-07-07",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "HUSB": "@I88@",
+      "WIFE": "@I89@",
+      "CHIL": "@I37@"
+    },
+    {
+      "ID": "@F78@",
+      "MARR": "Y",
+      "HUSB": "@I90@",
+      "WIFE": "@I91@",
+      "CHIL": "@I87@"
+    },
+    {
+      "ID": "@F79@",
+      "MARR": "Y",
+      "HUSB": "@I92@",
+      "WIFE": "@I93@",
+      "CHIL": "@I88@"
+    },
+    {
+      "ID": "@F80@",
+      "MARR": "Y",
+      "HUSB": "@I94@",
+      "WIFE": "@I95@",
+      "CHIL": "@I89@"
+    },
+    {
+      "ID": "@F59@",
+      "MARR": {
+        "DATE": "1727-11-24",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "HUSB": "@I96@",
+      "WIFE": "@I97@",
+      "CHIL": "@I60@"
+    },
+    {
+      "ID": "@F60@",
+      "MARR": {
+        "DATE": "1728-02-03",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "HUSB": "@I98@",
+      "WIFE": "@I99@",
+      "CHIL": "@I61@"
+    },
+    {
+      "ID": "@F81@",
+      "MARR": {
+        "DATE": "1697-01-29",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "HUSB": "@I100@",
+      "WIFE": "@I101@",
+      "CHIL": "@I96@"
+    },
+    {
+      "ID": "@F82@",
+      "MARR": "Y",
+      "HUSB": "@I102@",
+      "WIFE": "@I103@",
+      "CHIL": "@I97@"
+    },
+    {
+      "ID": "@F85@",
+      "MARR": "Y",
+      "HUSB": "@I104@",
+      "WIFE": "@I105@",
+      "CHIL": "@I100@"
+    },
+    {
+      "ID": "@F86@",
+      "MARR": "Y",
+      "HUSB": "@I106@",
+      "WIFE": "@I107@",
+      "CHIL": "@I101@"
+    },
+    {
+      "ID": "@F83@",
+      "MARR": "Y",
+      "HUSB": "@I108@",
+      "WIFE": "@I109@",
+      "CHIL": "@I98@"
+    },
+    {
+      "ID": "@F84@",
+      "MARR": "Y",
+      "HUSB": "@I110@",
+      "WIFE": "@I111@",
+      "CHIL": "@I99@"
+    },
+    {
+      "ID": "@F69@",
+      "MARR": {
+        "DATE": "1748-07-25",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I112@",
+      "WIFE": "@I113@",
+      "CHIL": "@I72@"
+    },
+    {
+      "ID": "@F70@",
+      "MARR": "Y",
+      "HUSB": "@I114@",
+      "WIFE": "@I115@",
+      "CHIL": "@I73@"
+    },
+    {
+      "ID": "@F87@",
+      "MARR": {
+        "DATE": "1716-01-14",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I118@",
+      "WIFE": "@I119@",
+      "CHIL": "@I113@"
+    },
+    {
+      "ID": "@F71@",
+      "MARR": {
+        "DATE": "1727-02-18",
+        "PLAC": "Champtoceaux, 49069, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I120@",
+      "WIFE": "@I121@",
+      "CHIL": "@I74@"
+    },
+    {
+      "ID": "@F72@",
+      "MARR": {
+        "DATE": "1726-02-11",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I122@",
+      "WIFE": "@I123@",
+      "CHIL": "@I75@"
+    },
+    {
+      "ID": "@F92@",
+      "MARR": {
+        "DATE": "1700-09-22",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I124@",
+      "WIFE": "@I125@",
+      "CHIL": "@I120@"
+    },
+    {
+      "ID": "@F93@",
+      "MARR": {
+        "DATE": "1686-07-01",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I126@",
+      "WIFE": "@I127@",
+      "CHIL": "@I121@"
+    },
+    {
+      "ID": "@F96@",
+      "MARR": "Y",
+      "HUSB": "@I128@",
+      "WIFE": "@I129@",
+      "CHIL": "@I124@"
+    },
+    {
+      "ID": "@F97@",
+      "MARR": "Y",
+      "HUSB": "@I130@",
+      "WIFE": "@I131@",
+      "CHIL": "@I125@"
+    },
+    {
+      "ID": "@F98@",
+      "MARR": "Y",
+      "HUSB": "@I132@",
+      "WIFE": "@I133@",
+      "CHIL": "@I126@"
+    },
+    {
+      "ID": "@F99@",
+      "MARR": "Y",
+      "HUSB": "@I134@",
+      "CHIL": "@I127@"
+    },
+    {
+      "ID": "@F95@",
+      "MARR": "Y",
+      "HUSB": "@I135@",
+      "CHIL": "@I123@"
+    },
+    {
+      "ID": "@F94@",
+      "MARR": "Y",
+      "WIFE": "@I136@",
+      "CHIL": "@I122@"
+    },
+    {
+      "ID": "@F73@",
+      "MARR": {
+        "DATE": "1702-05-16",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I137@",
+      "WIFE": "@I138@",
+      "CHIL": "@I76@"
+    },
+    {
+      "ID": "@F74@",
+      "MARR": {
+        "DATE": "1706-05-18",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I116@",
+      "WIFE": "@I117@",
+      "CHIL": [
+        "@I77@",
+        "@I112@"
+      ]
+    },
+    {
+      "ID": "@F100@",
+      "MARR": "Y",
+      "HUSB": "@I139@",
+      "WIFE": "@I140@",
+      "CHIL": "@I137@"
+    },
+    {
+      "ID": "@F90@",
+      "MARR": "Y",
+      "HUSB": "@I141@",
+      "WIFE": "@I142@",
+      "CHIL": [
+        "@I138@",
+        "@I118@"
+      ]
+    },
+    {
+      "ID": "@F89@",
+      "MARR": {
+        "DATE": "1685-02-26",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "HUSB": "@I143@",
+      "WIFE": "@I144@",
+      "CHIL": "@I117@"
+    },
+    {
+      "ID": "@F88@",
+      "MARR": {
+        "DATE": "1680-02-27",
+        "PLAC": "La Varenne, 49360, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I145@",
+      "WIFE": "@I146@",
+      "CHIL": "@I116@"
+    },
+    {
+      "ID": "@F101@",
+      "MARR": "Y",
+      "HUSB": "@I147@",
+      "WIFE": "@I148@",
+      "CHIL": "@I144@"
+    },
+    {
+      "ID": "@F63@",
+      "MARR": {
+        "DATE": "1742-07-03",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "HUSB": "@I149@",
+      "WIFE": "@I150@",
+      "CHIL": "@I66@"
+    },
+    {
+      "ID": "@F61@",
+      "MARR": {
+        "DATE": "1743-01-22",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "HUSB": "@I151@",
+      "WIFE": "@I152@",
+      "CHIL": "@I64@"
+    },
+    {
+      "ID": "@F62@",
+      "MARR": "Y",
+      "HUSB": "@I153@",
+      "WIFE": "@I154@",
+      "CHIL": "@I65@"
+    },
+    {
+      "ID": "@F106@",
+      "MARR": "Y",
+      "HUSB": "@I155@",
+      "WIFE": "@I156@",
+      "CHIL": "@I151@"
+    },
+    {
+      "ID": "@F38@",
+      "MARR": "Y",
+      "HUSB": "@I157@",
+      "WIFE": "@I158@",
+      "CHIL": "@I38@"
+    },
+    {
+      "ID": "@F40@",
+      "MARR": "Y",
+      "HUSB": "@I159@",
+      "WIFE": "@I160@",
+      "CHIL": "@I40@"
+    },
+    {
+      "ID": "@F41@",
+      "MARR": "Y",
+      "HUSB": "@I161@",
+      "WIFE": "@I162@",
+      "CHIL": "@I41@"
+    },
+    {
+      "ID": "@F28@",
+      "MARR": {
+        "DATE": "1801-07-29",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "HUSB": "@I84@",
+      "WIFE": "@I163@",
+      "CHIL": "@I28@"
+    },
+    {
+      "ID": "@F107@",
+      "MARR": {
+        "DATE": "1765-02-12",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "HUSB": "@I164@",
+      "WIFE": "@I165@",
+      "CHIL": "@I163@"
+    },
+    {
+      "ID": "@F29@",
+      "MARR": {
+        "DATE": "1786-05-09",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "HUSB": "@I82@",
+      "WIFE": "@I166@",
+      "CHIL": "@I29@"
+    },
+    {
+      "ID": "@F77@",
+      "MARR": {
+        "DATE": "1755-02-04",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "HUSB": "@I167@",
+      "WIFE": "@I168@",
+      "CHIL": "@I84@"
+    },
+    {
+      "ID": "@F76@",
+      "MARR": "Y",
+      "HUSB": "@I169@",
+      "WIFE": "@I170@",
+      "CHIL": "@I82@"
+    },
+    {
+      "ID": "@F110@",
+      "MARR": {
+        "DATE": "1768-02-09",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "HUSB": "@I171@",
+      "WIFE": "@I172@",
+      "CHIL": "@I166@"
+    },
+    {
+      "ID": "@F113@",
+      "MARR": "Y",
+      "HUSB": "@I173@",
+      "WIFE": "@I174@",
+      "CHIL": "@I171@"
+    },
+    {
+      "ID": "@F114@",
+      "MARR": "Y",
+      "HUSB": "@I175@",
+      "WIFE": "@I176@",
+      "CHIL": "@I172@"
+    },
+    {
+      "ID": "@F33@",
+      "MARR": "Y",
+      "HUSB": "@I177@",
+      "WIFE": "@I178@",
+      "CHIL": "@I33@"
+    },
+    {
+      "ID": "@F32@",
+      "MARR": "Y",
+      "HUSB": "@I179@",
+      "WIFE": "@I180@",
+      "CHIL": "@I32@"
+    },
+    {
+      "ID": "@F39@",
+      "MARR": {
+        "DATE": "1749-02-17",
+        "PLAC": "Vallet, 44212, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "HUSB": "@I181@",
+      "WIFE": "@I182@",
+      "CHIL": "@I39@"
+    },
+    {
+      "ID": "@F115@",
+      "MARR": "Y",
+      "HUSB": "@I183@",
+      "WIFE": "@I184@",
+      "CHIL": "@I181@"
+    },
+    {
+      "ID": "@F116@",
+      "MARR": "Y",
+      "HUSB": "@I185@",
+      "WIFE": "@I186@",
+      "CHIL": "@I182@"
+    },
+    {
+      "ID": "@F64@",
+      "MARR": {
+        "DATE": "1755-02-04",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "HUSB": "@I187@",
+      "WIFE": "@I188@",
+      "CHIL": "@I67@"
+    },
+    {
+      "ID": "@F58@",
+      "MARR": {
+        "DATE": "1753-02-27",
+        "PLAC": "La Chapelle-Basse-Mer, 44029, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "HUSB": "@I189@",
+      "WIFE": "@I190@",
+      "CHIL": "@I58@"
+    },
+    {
+      "ID": "@F104@",
+      "MARR": "Y",
+      "HUSB": "@I192@",
+      "WIFE": "@I193@",
+      "CHIL": "@I149@"
+    },
+    {
+      "ID": "@F105@",
+      "MARR": "Y",
+      "HUSB": "@I194@",
+      "WIFE": "@I195@",
+      "CHIL": "@I150@"
+    },
+    {
+      "ID": "@F117@",
+      "MARR": "Y",
+      "HUSB": "@I196@",
+      "CHIL": "@I187@"
+    },
+    {
+      "ID": "@F118@",
+      "MARR": "Y",
+      "HUSB": "@I191@",
+      "WIFE": "@I197@",
+      "CHIL": "@I188@"
+    },
+    {
+      "ID": "@F119@",
+      "MARR": "Y",
+      "CHIL": "@I189@"
+    },
+    {
+      "ID": "@F120@",
+      "MARR": "Y",
+      "HUSB": "@I198@",
+      "WIFE": "@I199@",
+      "CHIL": "@I190@"
+    },
+    {
+      "ID": "@F47@",
+      "MARR": "Y",
+      "HUSB": "@I200@",
+      "WIFE": "@I201@",
+      "CHIL": "@I48@"
+    },
+    {
+      "ID": "@F51@",
+      "MARR": "Y",
+      "HUSB": "@I202@",
+      "WIFE": "@I203@",
+      "CHIL": "@I51@"
+    },
+    {
+      "ID": "@F50@",
+      "MARR": {
+        "DATE": "1767-02-10",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I204@",
+      "WIFE": "@I205@",
+      "CHIL": "@I45@"
+    },
+    {
+      "ID": "@F48@",
+      "MARR": "Y",
+      "HUSB": "@I206@",
+      "WIFE": "@I207@",
+      "CHIL": "@I49@"
+    },
+    {
+      "ID": "@F123@",
+      "MARR": "Y",
+      "CHIL": "@I207@"
+    },
+    {
+      "ID": "@F49@",
+      "MARR": "Y",
+      "HUSB": "@I208@",
+      "WIFE": "@I209@",
+      "CHIL": "@I50@"
+    },
+    {
+      "ID": "@F125@",
+      "MARR": {
+        "DATE": "1791-09-06",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I210@",
+      "WIFE": "@I211@",
+      "CHIL": "@I260@"
+    },
+    {
+      "ID": "@F54@",
+      "MARR": {
+        "DATE": "1850-07-14",
+        "PLAC": "Saint-Laurent-des-Autels, 49296, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I212@",
+      "WIFE": "@I213@",
+      "CHIL": "@I54@"
+    },
+    {
+      "ID": "@F128@",
+      "MARR": {
+        "DATE": "1812-06-17",
+        "PLAC": "Saint-Laurent-des-Autels, 49296, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I214@",
+      "WIFE": "@I215@",
+      "CHIL": "@I213@"
+    },
+    {
+      "ID": "@F127@",
+      "MARR": {
+        "DATE": "1822-01-16",
+        "PLAC": "Saint-Laurent-des-Autels, 49296, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I216@",
+      "WIFE": "@I217@",
+      "CHIL": "@I212@"
+    },
+    {
+      "ID": "@F131@",
+      "MARR": "Y",
+      "HUSB": "@I218@",
+      "WIFE": "@I219@",
+      "CHIL": "@I216@"
+    },
+    {
+      "ID": "@F132@",
+      "MARR": "Y",
+      "HUSB": "@I220@",
+      "WIFE": "@I221@",
+      "CHIL": "@I217@"
+    },
+    {
+      "ID": "@F129@",
+      "MARR": "Y",
+      "HUSB": "@I222@",
+      "WIFE": "@I223@",
+      "CHIL": "@I214@"
+    },
+    {
+      "ID": "@F130@",
+      "MARR": "Y",
+      "HUSB": "@I224@",
+      "WIFE": "@I225@",
+      "CHIL": "@I215@"
+    },
+    {
+      "ID": "@F55@",
+      "MARR": "Y",
+      "HUSB": "@I226@",
+      "WIFE": "@I227@",
+      "CHIL": "@I55@"
+    },
+    {
+      "ID": "@F133@",
+      "MARR": {
+        "DATE": "1808-07-02",
+        "PLAC": "Landemont, 49172, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I228@",
+      "WIFE": "@I229@",
+      "CHIL": "@I226@"
+    },
+    {
+      "ID": "@F134@",
+      "MARR": {
+        "DATE": "1811-07-14",
+        "PLAC": "Landemont, 49172, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I230@",
+      "WIFE": "@I231@",
+      "CHIL": "@I227@"
+    },
+    {
+      "ID": "@F135@",
+      "MARR": "Y",
+      "HUSB": "@I232@",
+      "WIFE": "@I233@",
+      "CHIL": "@I228@"
+    },
+    {
+      "ID": "@F136@",
+      "MARR": {
+        "DATE": "1770-09-18",
+        "PLAC": "Landemont, 49172, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I234@",
+      "WIFE": "@I235@",
+      "CHIL": "@I229@"
+    },
+    {
+      "ID": "@F75@",
+      "MARR": {
+        "DATE": "1692-05-20",
+        "PLAC": "Le Loroux-Bottereau, 44084, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "HUSB": "@I236@",
+      "WIFE": "@I237@",
+      "CHIL": "@I78@"
+    },
+    {
+      "ID": "@F91@",
+      "MARR": "Y",
+      "HUSB": "@I238@",
+      "WIFE": "@I239@",
+      "CHIL": "@I119@"
+    },
+    {
+      "ID": "@F144@",
+      "MARR": "Y",
+      "CHIL": "@I239@"
+    },
+    {
+      "ID": "@F143@",
+      "MARR": "Y",
+      "CHIL": "@I238@"
+    },
+    {
+      "ID": "@F103@",
+      "MARR": "Y",
+      "HUSB": "@I240@",
+      "WIFE": "@I241@",
+      "CHIL": "@I146@"
+    },
+    {
+      "ID": "@F102@",
+      "MARR": "Y",
+      "CHIL": "@I145@"
+    },
+    {
+      "ID": "@F108@",
+      "MARR": "Y",
+      "HUSB": "@I242@",
+      "WIFE": "@I243@",
+      "CHIL": "@I164@"
+    },
+    {
+      "ID": "@F109@",
+      "MARR": "Y",
+      "HUSB": "@I244@",
+      "WIFE": "@I245@",
+      "CHIL": "@I165@"
+    },
+    {
+      "ID": "@F111@",
+      "MARR": "Y",
+      "HUSB": "@I246@",
+      "WIFE": "@I247@",
+      "CHIL": "@I167@"
+    },
+    {
+      "ID": "@F112@",
+      "MARR": "Y",
+      "HUSB": "@I248@",
+      "WIFE": "@I249@",
+      "CHIL": "@I168@"
+    },
+    {
+      "ID": "@F121@",
+      "MARR": {
+        "DATE": "1734-02-07",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I250@",
+      "WIFE": "@I251@",
+      "CHIL": "@I204@"
+    },
+    {
+      "ID": "@F122@",
+      "MARR": "Y",
+      "HUSB": "@I252@",
+      "WIFE": "@I253@",
+      "CHIL": "@I205@"
+    },
+    {
+      "ID": "@F145@",
+      "MARR": "Y",
+      "HUSB": "@I254@",
+      "WIFE": "@I255@",
+      "CHIL": "@I250@"
+    },
+    {
+      "ID": "@F146@",
+      "MARR": "Y",
+      "HUSB": "@I256@",
+      "WIFE": "@I257@",
+      "CHIL": "@I251@"
+    },
+    {
+      "ID": "@F147@",
+      "MARR": "Y",
+      "HUSB": "@I258@",
+      "WIFE": "@I259@",
+      "CHIL": "@I253@"
+    },
+    {
+      "ID": "@F52@",
+      "MARR": {
+        "DATE": "1821-09-26",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I260@",
+      "WIFE": "@I261@",
+      "CHIL": "@I52@"
+    },
+    {
+      "ID": "@F53@",
+      "MARR": {
+        "DATE": "1828-07-22",
+        "PLAC": "La Boissière-du-Doré, 44016, Loire-Atlantique, Pays de la Loire, France"
+      },
+      "HUSB": "@I262@",
+      "WIFE": "@I263@",
+      "CHIL": "@I53@"
+    },
+    {
+      "ID": "@F148@",
+      "MARR": "Y",
+      "HUSB": "@I264@",
+      "WIFE": "@I265@",
+      "CHIL": "@I261@"
+    },
+    {
+      "ID": "@F124@",
+      "MARR": "Y",
+      "HUSB": "@I266@",
+      "WIFE": "@I267@",
+      "CHIL": "@I210@"
+    },
+    {
+      "ID": "@F126@",
+      "MARR": "Y",
+      "HUSB": "@I268@",
+      "WIFE": "@I269@",
+      "CHIL": "@I211@"
+    },
+    {
+      "ID": "@F151@",
+      "MARR": "Y",
+      "HUSB": "@I270@",
+      "WIFE": "@I271@",
+      "CHIL": "@I264@"
+    },
+    {
+      "ID": "@F152@",
+      "MARR": "Y",
+      "HUSB": "@I272@",
+      "WIFE": "@I273@",
+      "CHIL": "@I265@"
+    },
+    {
+      "ID": "@F149@",
+      "MARR": {
+        "DATE": "1795-09-13",
+        "PLAC": "Saint-Christophe-la-Couperie, 49270, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I274@",
+      "WIFE": "@I275@",
+      "CHIL": "@I262@"
+    },
+    {
+      "ID": "@F150@",
+      "MARR": "Y",
+      "HUSB": "@I276@",
+      "WIFE": "@I277@",
+      "CHIL": "@I263@"
+    },
+    {
+      "ID": "@F153@",
+      "MARR": "Y",
+      "HUSB": "@I278@",
+      "WIFE": "@I279@",
+      "CHIL": "@I276@"
+    },
+    {
+      "ID": "@F137@",
+      "MARR": {
+        "DATE": "1784-01-27",
+        "PLAC": "Landemont, 49172, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I280@",
+      "WIFE": "@I281@",
+      "CHIL": "@I230@"
+    },
+    {
+      "ID": "@F138@",
+      "MARR": "Y",
+      "HUSB": "@I282@",
+      "WIFE": "@I283@",
+      "CHIL": "@I231@"
+    },
+    {
+      "ID": "@F140@",
+      "MARR": "Y",
+      "HUSB": "@I284@",
+      "WIFE": "@I285@",
+      "CHIL": "@I233@"
+    },
+    {
+      "ID": "@F139@",
+      "MARR": "Y",
+      "HUSB": "@I286@",
+      "WIFE": "@I287@",
+      "CHIL": "@I232@"
+    },
+    {
+      "ID": "@F141@",
+      "MARR": {
+        "DATE": "1739-05-26",
+        "PLAC": "Drain, 49126, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I288@",
+      "WIFE": "@I289@",
+      "CHIL": "@I234@"
+    },
+    {
+      "ID": "@F142@",
+      "MARR": "Y",
+      "HUSB": "@I290@",
+      "WIFE": "@I291@",
+      "CHIL": "@I235@"
+    },
+    {
+      "ID": "@F154@",
+      "MARR": {
+        "DATE": "1717-01-13",
+        "PLAC": "Drain, 49126, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I292@",
+      "WIFE": "@I293@",
+      "CHIL": "@I288@"
+    },
+    {
+      "ID": "@F155@",
+      "MARR": {
+        "DATE": "1706-06-22",
+        "PLAC": "Drain, 49126, Maine-et-Loire, Pays de la Loire, France",
+        "NOTE": "Saint-Sauveur"
+      },
+      "HUSB": "@I294@",
+      "WIFE": "@I295@",
+      "CHIL": "@I289@"
+    },
+    {
+      "ID": "@F156@",
+      "MARR": {
+        "DATE": "1685-07-17",
+        "PLAC": "Drain, 49126, Maine-et-Loire, Pays de la Loire, France"
+      },
+      "HUSB": "@I296@",
+      "WIFE": "@I297@",
+      "CHIL": "@I292@"
+    },
+    {
+      "ID": "@F157@",
+      "MARR": "Y",
+      "HUSB": "@I298@",
+      "WIFE": "@I299@",
+      "CHIL": "@I293@"
+    },
+    {
+      "ID": "@F158@",
+      "MARR": "Y",
+      "HUSB": "@I300@",
+      "WIFE": "@I301@",
+      "CHIL": "@I294@"
+    },
+    {
+      "ID": "@F159@",
+      "MARR": "Y",
+      "HUSB": "@I302@",
+      "WIFE": "@I303@",
+      "CHIL": "@I295@"
+    }
+  ]
+}

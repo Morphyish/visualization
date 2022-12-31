@@ -1,0 +1,6 @@
+.card {
+    display: flex;
+    flex: 1 1 500px;
+    overflow: hidden;
+    user-select: none;
+}
