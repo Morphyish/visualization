@@ -77,7 +77,7 @@ function FamilyTree() {
 
     return (
         <Card color={background}>
-            {({ innerWidth, innerHeight }) => {
+            {({ innerWidth, innerHeight, top, left }) => {
                 const size = 2 * Math.PI
                 const radius = Math.min(innerWidth, innerHeight) / 2
 
@@ -87,28 +87,30 @@ function FamilyTree() {
                 }
 
                 return (
-                    <Tree<TreeNode>
-                        root={hierarchy<TreeNode>(rawTree, (d) => (d.isCollapsed ? null : d.children))}
-                        size={[size, radius]}
-                        separation={(a, b) => (a.parent === b.parent ? 1 : 0.5) / a.depth}
-                    >
-                        {(tree) => (
-                            <Group top={origin.y} left={origin.x}>
-                                {tree.links().map((link, i) => (
-                                    <LinkRadialStep
-                                        key={`link-${i}`}
-                                        data={link}
-                                        stroke={lightpurple}
-                                        strokeWidth="1"
-                                        fill="none"
-                                    />
-                                ))}
-                                {tree.descendants().map((node, i) => (
-                                    <Node key={`node-${i}`} node={node} forceUpdate={forceUpdate} />
-                                ))}
-                            </Group>
-                        )}
-                    </Tree>
+                    <Group top={top} left={left}>
+                        <Tree<TreeNode>
+                            root={hierarchy<TreeNode>(rawTree, (d) => (d.isCollapsed ? null : d.children))}
+                            size={[size, radius]}
+                            separation={(a, b) => (a.parent === b.parent ? 1 : 0.5) / a.depth}
+                        >
+                            {(tree) => (
+                                <Group top={origin.y} left={origin.x}>
+                                    {tree.links().map((link, i) => (
+                                        <LinkRadialStep
+                                            key={`link-${i}`}
+                                            data={link}
+                                            stroke={lightpurple}
+                                            strokeWidth="1"
+                                            fill="none"
+                                        />
+                                    ))}
+                                    {tree.descendants().map((node, i) => (
+                                        <Node key={`node-${i}`} node={node} forceUpdate={forceUpdate} />
+                                    ))}
+                                </Group>
+                            )}
+                        </Tree>
+                    </Group>
                 )
             }}
         </Card>
